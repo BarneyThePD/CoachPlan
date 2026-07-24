@@ -35,5 +35,6 @@ This repository is the source of truth for Robert's running programme.
 ## Files
 
 - [`current-block.md`](current-block.md) — active plan through the end of August 2026
-- [`session-log.md`](session-log.md) — completed running and strength sessions
+- [`session-log.md`](session-log.md) — completed running and strength sessions in the current block
+- [`history.md`](history.md) — marathon build, post-marathon recovery and the sessions leading into the current block
 - [`coach-notes.md`](coach-notes.md) — decisions, projections and reasoning

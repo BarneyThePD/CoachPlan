@@ -1,5 +1,323 @@
 # Session Log
 
+Complete chronological record from the first post-marathon comeback run.
+
+## 16 June 2026 — Comeback aerobic run
+
+**Session**
+
+- Treadmill aerobic progression
+- 45:00 total
+- 6.33 km
+
+**Recorded HR progression**
+
+- 141
+- 150
+- 154
+- 163
+- 166
+- 176 at 9.0 km/h
+
+**Notes**
+
+First meaningful run after the Edinburgh Marathon. HR rose substantially at the top end, so pace was backed off. Confirmed that recovery was sufficient to restart structured training.
+
+---
+
+## 20 June 2026 — Parkrun
+
+- 29:45
+- Walked during the run
+
+**Notes**
+
+General fatigue remained evident. Treated as part of the post-marathon return rather than a meaningful fitness benchmark.
+
+---
+
+## 28 June 2026 — Quality
+
+**Session**
+
+- 5 min walk
+- 10 min @ 8.0 km/h
+- 10 min @ 8.5 km/h
+- 10 min @ 9.0 km/h
+- 4 × 2 min @ 11.0 km/h
+- 2 min easy recoveries
+
+**Total**
+
+- 51:00
+- 7.29 km
+
+**Recorded HRs**
+
+- 152
+- 163
+- 176
+
+**Subjective feedback**
+
+Intervals felt “about right.”
+
+**Notes**
+
+First proper quality session of the new block.
+
+---
+
+## 30 June 2026 — Quality
+
+**Session**
+
+- 5 × 2 min @ 11.2 km/h
+- Easy recoveries between reps
+
+**Rep-end HRs**
+
+- 170
+- 169
+- 170
+- 170
+- 174
+
+**Total**
+
+- 55:00
+- 7.95 km
+
+**Notes**
+
+Controlled progression from 11.0 to 11.2 km/h. Strong execution with stable HR across the first four reps.
+
+---
+
+## 2 July 2026 — Aerobic progression
+
+**Session**
+
+- Progression through 8.0, 8.5, 9.2 and 9.7 km/h
+
+**Recorded HRs**
+
+- 133
+- 150
+- 153
+- 158
+- 156
+- 164
+
+**Total**
+
+- 45:00
+- 6.35 km
+
+**Notes**
+
+Well-controlled aerobic progression and a strong early benchmark for the block.
+
+---
+
+## 4 July 2026 — St Albans Parkrun
+
+- 30:34
+- Stopped during the run
+- Approx. 59 m elevation gain
+
+**Conditions and context**
+
+- Humid
+- Cramp
+- Running with son
+- Hilly course
+
+**Notes**
+
+Not treated as a flat 5k benchmark. The course profile and circumstances materially affected the result.
+
+---
+
+## 7 July 2026 — Shortened quality
+
+**Session**
+
+- Progression into 11.4 km/h intervals
+- 5 reps planned
+- Final rep extended to approximately 3.5 minutes
+
+**Rep-end HRs**
+
+- 164
+- 174
+- 170
+- 174
+- 178
+
+**Total**
+
+- 34:00
+- 5.10 km
+
+**Notes**
+
+Short session but productive. Demonstrated improving tolerance of faster work.
+
+---
+
+## 9 July 2026 — Outdoor aerobic run
+
+**Total**
+
+- 36:00
+- 5.70 km
+- 39 m elevation gain
+
+**Conditions**
+
+- 27°C
+- Humid
+
+**Splits**
+
+- 6:37
+- 6:20
+- 5:58
+- 6:17
+- 6:51
+- Final 0.70 km in 4:21 elapsed, approximately 6:30/km pace
+
+**Notes**
+
+Heat was a major factor. Useful outdoor aerobic work rather than a pace benchmark.
+
+---
+
+## 11 July 2026 — Outdoor quality replacement
+
+**Context**
+
+Gym was closed, so the planned treadmill session was replaced with an outdoor run.
+
+**Total**
+
+- 36:00
+- 5.67 km
+- No stops
+
+**Conditions**
+
+- 23°C
+- 66% humidity
+
+**Splits**
+
+- 6:36
+- 6:24
+- 5:37
+- 6:10
+- 6:52
+- Final 0.67 km in 4:21 elapsed
+
+**Notes**
+
+Strong uninterrupted outdoor effort in humid conditions.
+
+---
+
+## 13 July 2026 — Quality
+
+**Session**
+
+- Quality intervals @ 11.6 km/h
+- Continued easy running to 7.0 km
+
+**Warm-up HRs**
+
+- 135
+- 145
+- 147
+- 154
+
+**Rep-end HRs**
+
+- 164
+- 170
+- 170
+- 174
+- 174
+
+**Total**
+
+- 48:00
+- 7.0 km
+- HR 163 at 7.0 km
+
+**Notes**
+
+Best session of the block at that point. Established readiness to begin introducing 12.0 km/h.
+
+---
+
+## 16 July 2026 — Short aerobic progression
+
+**Session**
+
+- 3 min walk
+- 7 min @ 8.0 km/h
+- 8 min @ 8.5 km/h
+- 12 min @ 9.5 km/h
+- 5 min @ 10.5 km/h
+
+**Recorded HRs**
+
+- 129
+- 140
+- 157
+- 159
+- 170
+
+**Total**
+
+- 35:00
+- 5.14 km
+
+**Notes**
+
+Compact but effective progression, finishing strongly at 10.5 km/h.
+
+---
+
+## 19 July 2026 — Sustained aerobic benchmark
+
+**Session**
+
+- 5 min walk
+- 10 min @ 8.0 km/h
+- 20 min continuous @ 10.0 km/h
+- 5 min @ 10.5 km/h
+
+**Recorded HRs**
+
+- 130
+- 152
+- 157
+- 164
+- 164
+- 170
+
+**Total**
+
+- 40:00
+- 6.04 km
+
+**Notes**
+
+First sustained 20-minute block at 10.0 km/h. Important evidence that aerobic endurance was improving alongside interval speed.
+
+---
+
 ## 21 July 2026 — Quality
 
 **Session**
@@ -10,8 +328,8 @@
 - 5 min @ 9.0 km/h — HR 161
 - 5 × 2 min @ 12.0 km/h
 - 90 sec @ 8.0 km/h recoveries
-- easy running to 7.0 km
-- cooldown walk
+- Easy running to 7.0 km
+- Cooldown walk
 
 **Rep-end HRs**
 

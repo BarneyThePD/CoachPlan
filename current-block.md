@@ -21,46 +21,49 @@ The current focus is to increase sustainable time at **12.0 km/h** before increa
 | Step | Session | Status |
 |---|---|---|
 | 1 | 5 × 2 min @ 12.0 km/h, 90 sec recoveries | Complete |
-| 2 | 4 × 3 min @ 12.0 km/h, 90 sec recoveries | Next |
-| 3 | 3 × 5 min @ 12.0 km/h | Planned |
+| 2 | 4 × 3 min @ 12.0 km/h, 90 sec recoveries | Complete |
+| 3 | 3 × 5 min @ 12.0 km/h, 90 sec recoveries | Next |
 | 4 | 2 × 8 min @ 12.0 km/h | Planned |
-| 5 | 20 min continuous @ 12.0 km/h | Planned |
+| 5 | 15–20 min continuous @ 12.0 km/h | Planned |
 
 ## Aerobic progression
 
-Current established session:
+Current planned session:
 
 - 5 min walk
 - 10 min @ 8.0 km/h
-- 10 min @ 8.5 km/h
+- 10 min @ 9.0 km/h
 - 10 min @ 9.5 km/h
 - 10 min @ 10.0 km/h
-- 5 min @ 10.5 km/h
+- 5 min @ 11.0 km/h
 - 5 min walk
+
+This progresses only the final five-minute block from the 24 July session. The aim remains a controlled aerobic progression, not a second quality workout.
 
 Future progressions should normally change only one variable:
 
 - repeat the current session and look for improved effort/HR;
 - extend the 10.0 km/h block;
-- or finish with 5 min @ 11.0 km/h.
+- or consolidate before the next increase.
 
 ## Plan through end of August 2026
 
 ### Week of 27 July
 
-**Quality**
+**Quality — complete**
 
 - 5 min walk
 - 10 min @ 8.0 km/h
-- 10 min @ 8.5 km/h
-- 5 min @ 9.0 km/h
+- 10 min @ 9.0 km/h
+- 5 min @ 9.5 km/h
 - 4 × 3 min @ 12.0 km/h
 - 90 sec @ 8.0 km/h recoveries
-- cooldown
+- easy running to 48:00
+- 5 min cooldown walk and stretching
 
-**Aerobic**
+**Aerobic — next**
 
-Repeat the current established aerobic progression.
+- Finish with 5 min @ **11.0 km/h**.
 
 **Parkrun**
 
@@ -71,7 +74,7 @@ Strong, controlled effort. No requirement to chase a PB unless fresh and conditi
 Subject to recovery and successful completion of the prior week:
 
 - Quality: **3 × 5 min @ 12.0 km/h**
-- Aerobic: repeat or progress the final 5 min to **11.0 km/h**
+- Aerobic: repeat or consolidate the 11.0 km/h finish
 - Parkrun: training effort or flat-course benchmark
 
 ### Week of 10 August
@@ -97,7 +100,7 @@ Freshen slightly and attempt a hard 5k on the flattest practical course.
 ## Success criteria by end of August
 
 - 15–20 minutes continuous at 12.0 km/h is controlled.
-- Aerobic progression through 10.0–10.5 km/h feels repeatable.
+- Aerobic progression through 10.0–11.0 km/h feels repeatable.
 - Flat 5k fitness is close to or below 27:00–27:30.
 - No persistent injury or accumulating fatigue.
 

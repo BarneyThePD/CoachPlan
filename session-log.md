@@ -388,3 +388,80 @@ The 10.0 km/h block felt “pretty fine.”
 **Notes**
 
 Successful increase in aerobic workload. HR rose logically with pace, and the new 10-minute block at 10.0 km/h felt controlled.
+
+---
+
+## 25 July 2026 — St Albans Parkrun 🟡 Interrupted
+
+**Result**
+
+- 29:56
+
+**Context**
+
+- Stopped at approximately 3 km after Jesse fell and hurt himself.
+- The remainder was completed in a stop-start fashion.
+- Felt good for most of the runnable portions.
+
+**Coach assessment**
+
+Not a representative benchmark of current fitness. The interruption materially affected the finishing time, while the subjective feedback remained positive.
+
+---
+
+## 27 July 2026 — Home strength
+
+**Session**
+
+- Romanian deadlifts — 2 × 10 with 2 × 7 kg dumbbells
+- Single-arm dumbbell rows — 3 × 10 each side with 7 kg
+- Standing calf raises — 2 × 15
+- Front planks — 3 sets
+- Side planks — 2 sets each side
+
+**Subjective feedback**
+
+- The 7 kg dumbbell work felt fairly doable.
+- Front and side planks were difficult.
+
+**Notes**
+
+Clear progression from one to two side-plank sets per side. Strength work remained low enough in fatigue to preserve the following morning's quality session.
+
+---
+
+## 28 July 2026 — Quality ⭐
+
+**Warm-up**
+
+- 5 min walk
+- 10 min @ 8.0 km/h — HR 146
+- 10 min @ 9.0 km/h — HR 164
+- 5 min @ 9.5 km/h — HR 166
+
+**Main set**
+
+- 4 × 3 min @ 12.0 km/h
+- 90 sec @ 8.0 km/h recoveries
+
+**Rep-end HRs**
+
+- 178
+- 185
+- 187
+- 189
+
+**Finish**
+
+- Easy running @ 8.0 km/h until 48:00
+- 7.35 km total before cooldown
+- 5 min cooldown walk
+- Light stretching
+
+**Subjective feedback**
+
+Confident before the final rep: “I got this.”
+
+**Notes**
+
+Second major milestone of the block. Increased total work at 12.0 km/h from 10 to 12 minutes while keeping the same pace, then completed a controlled jog-out and cooldown.

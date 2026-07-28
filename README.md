@@ -4,8 +4,8 @@ This repository is the source of truth for Robert's running programme.
 
 ## Current goals
 
+- **Near-term milestone:** Sub-27 5k
 - **Primary:** Sub-50 10k
-- **Secondary:** Sub-27 5k
 - **Later:** Sub-45 10k
 - **September 2027:** Serpentine 10 km swim
 - **March 2028:** Sub-3:30 marathon attempt
@@ -28,13 +28,19 @@ This repository is the source of truth for Robert's running programme.
 
 ## Current fitness snapshot
 
-- Completed **5 × 2 min at 12.0 km/h** with rep-end HRs of **176, 177, 181, 182, 185**.
-- Completed aerobic progression through **10 min at 10.0 km/h** and **5 min at 10.5 km/h**.
-- Current estimated flat 5k fitness: approximately **28:00–28:30**, pending a fresh all-out test.
+_Last updated: 28 July 2026_
+
+- Completed **4 × 3 min at 12.0 km/h** with 90 sec recoveries; rep-end HRs were **178, 185, 187, 189**.
+- This followed **5 × 2 min at 12.0 km/h**, increasing total target-pace work from **10 to 12 minutes**.
+- Completed an aerobic progression containing **10 min at 10.0 km/h** and **5 min at 10.5 km/h**; the 10.0 km/h block felt controlled.
+- Next aerobic progression finishes with **5 min at 11.0 km/h**.
+- Latest St Albans parkrun was **29:56 on 25 July**, but it was interrupted from approximately 3 km and is not treated as a benchmark.
+- Current estimated flat 5k fitness remains approximately **28:00–28:30**, pending a clean all-out test.
+- Near-term roadmap: **3 × 5 min**, then **2 × 8 min**, then **15–20 min continuous at 12.0 km/h**.
 
 ## Files
 
 - [`current-block.md`](current-block.md) — active plan through the end of August 2026
-- [`session-log.md`](session-log.md) — completed running and strength sessions in the current block
-- [`history.md`](history.md) — marathon build, post-marathon recovery and the sessions leading into the current block
+- [`session-log.md`](session-log.md) — complete chronological record from the first post-marathon comeback run
+- [`history.md`](history.md) — marathon build, recovery phases and narrative interpretation
 - [`coach-notes.md`](coach-notes.md) — decisions, projections and reasoning

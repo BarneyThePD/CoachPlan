@@ -4,7 +4,7 @@
 
 Build towards:
 
-- **Sub-27 5k**
+- **Confirming a clean sub-27 5k**
 - **Sub-50 10k**
 
 The current focus is to increase sustainable time at **12.0 km/h** before increasing speed further.
@@ -42,7 +42,7 @@ Completed on 2 August:
 - final 5 km in approximately 27:30
 - finished feeling capable of at least another 5 min @ 12.0 km/h
 
-This is now the main aerobic benchmark. Future aerobic progressions should consolidate this workload before extending it again.
+This is now the main aerobic benchmark. It materially changed the fitness assessment: a clean sub-27 flat 5k is now expected, while the next training priority remains extending sustainable time at 12.0 km/h.
 
 ## Plan through end of August 2026
 
@@ -61,7 +61,7 @@ Subject to response:
 
 - Quality: **2 × 8 min @ 12.0 km/h**
 - Aerobic: consolidate
-- Weekend: strong effort
+- Weekend: strong effort or clean 5k benchmark if appropriate
 
 ### Week of 17 August
 
@@ -73,13 +73,13 @@ Subject to response:
 
 ### Week of 24 August
 
-Freshen slightly and attempt a hard 5k on the flattest practical course.
+Freshen slightly and attempt a hard 5k on the flattest practical course if a clean benchmark has not already been completed.
 
 ## Success criteria by end of August
 
 - 15–20 minutes continuous at 12.0 km/h is controlled.
 - The 2 August-style aerobic progression feels repeatable.
-- Flat 5k fitness is close to or below 27:00–27:30.
+- A clean flat 5k confirms **sub-27 fitness**, with current estimated fitness approximately **26:45–27:10**.
 - No persistent injury or accumulating fatigue.
 
 # Projected September 2026 plan
@@ -88,7 +88,7 @@ This is a projection and should change if August evidence points elsewhere.
 
 ## Main objective
 
-Convert improved aerobic capacity and 12.0 km/h durability into a faster standalone 5k.
+Consolidate sub-27 fitness, then begin building toward sub-26 while preserving the aerobic base needed for the sub-50 10k goal.
 
 ## Likely structure
 
@@ -108,8 +108,8 @@ Choose based on August results rather than following all of these rigidly:
 
 ## September target
 
-- Confirm a clean **sub-27 flat 5k**, or establish precisely how close current fitness is.
-- If sub-27 is achieved comfortably, begin shifting focus toward sub-26 and sub-50 10k durability.
+- Confirm and repeat a clean **sub-27 flat 5k**.
+- If sub-27 is achieved comfortably, begin shifting emphasis toward **sub-26** and sub-50 10k durability.
 
 ## Progression trigger
 

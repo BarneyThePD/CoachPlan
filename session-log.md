@@ -465,3 +465,60 @@ Confident before the final rep: “I got this.”
 **Notes**
 
 Second major milestone of the block. Increased total work at 12.0 km/h from 10 to 12 minutes while keeping the same pace, then completed a controlled jog-out and cooldown.
+
+---
+
+## 30 July 2026 — Aerobic session
+
+**Total**
+
+- 50:00
+- 7.50 km
+
+**Details**
+
+The exact speed progression and HR data were not retained. This was an aerobic session and should be kept in the record without inventing missing detail.
+
+---
+
+## 31 July 2026 — Home strength
+
+**Session**
+
+Home strength session completed. Exact exercise, set and rep details were not retained.
+
+**Notes**
+
+Recorded as completed, but not used as a detailed strength benchmark.
+
+---
+
+## 2 August 2026 — Aerobic progression breakthrough ⭐
+
+**Session**
+
+- 5 min walk
+- 10 min @ 8.0 km/h
+- 10 min @ 9.0 km/h
+- 5 min @ 10.0 km/h
+- 10 min @ 10.5 km/h
+- 10 min @ 11.0 km/h
+- 5 min @ 12.0 km/h
+
+**Total**
+
+- 55:00
+- 8.75 km
+
+**Key benchmark within the session**
+
+- Final 5 km completed in approximately **27:30**.
+
+**Subjective feedback**
+
+- Felt capable of completing at least another 5 minutes at 12.0 km/h if required.
+- Chose not to extend the planned session.
+
+**Notes**
+
+Major aerobic breakthrough. Faster running was sustained late in a progressive session rather than from a fresh start, and the final five minutes at 12.0 km/h were completed with reserve. This is strong evidence that target pace is becoming sustainable rather than merely achievable.

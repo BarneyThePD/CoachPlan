@@ -50,10 +50,38 @@ This is now the main aerobic benchmark. It materially changed the fitness assess
 
 Subject to recovery:
 
-- Quality: **3 × 5 min @ 12.0 km/h**
-- Aerobic: consolidate the 2 August progression or use a slightly easier equivalent
-- Weekend: training effort or flat-course benchmark
-- Strength: one or two short sessions if they do not compromise running
+**Tuesday quality**
+
+- 5 min walk
+- 10 min @ 8.0 km/h
+- 10 min @ 9.0 km/h
+- 5 min @ **10.0 km/h**
+- **3 × 5 min @ 12.0 km/h**
+- 90 sec @ 8.0 km/h recoveries
+- easy running if feeling good
+- 5 min walk and stretching
+
+The final bridge block has progressed from 9.5 to 10.0 km/h because 10.0 km/h is now comfortably established as aerobic. The quality objective remains extending duration at 12.0 km/h rather than increasing interval speed.
+
+**Thursday aerobic — conditional on Tuesday going well**
+
+- 5 min walk
+- 10 min @ 8.0 km/h
+- 10 min @ 9.0 km/h
+- 5 min @ 10.0 km/h
+- 10 min @ 10.5 km/h
+- **10 min continuous @ 12.0 km/h**
+- 5 min walk
+
+This extends the continuous 12.0 km/h finish from five to ten minutes. If Tuesday is unusually hard or recovery is poor, repeat the 2 August progression instead.
+
+**Weekend**
+
+- Training effort or flat-course benchmark depending on recovery.
+
+**Strength**
+
+- One or two short sessions if they do not compromise running.
 
 ### Week of 10 August
 

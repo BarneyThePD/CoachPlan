@@ -4,7 +4,7 @@ This repository is the source of truth for Robert's running programme.
 
 ## Current goals
 
-- **Near-term milestone:** Sub-27 5k
+- **Near-term milestone:** Confirm a clean sub-27 5k
 - **Primary:** Sub-50 10k
 - **Later:** Sub-45 10k
 - **September 2027:** Serpentine 10 km swim
@@ -37,10 +37,11 @@ _Last updated: 2 August 2026_
 - The final **5 km of that session took approximately 27:30**.
 - Finished the 2 August session feeling capable of at least **another 5 minutes at 12.0 km/h**.
 - Current assessment: **12.0 km/h is becoming sustainable rather than merely achievable**.
-- Current estimated flat 5k fitness is approximately **27:30–28:00**, pending a clean all-out test.
+- Current estimated flat 5k fitness is approximately **26:45–27:10**, pending a clean all-out test.
+- A clean **sub-27 flat 5k is now expected**, rather than merely aspirational.
 - Latest St Albans parkrun was **29:56 on 25 July**, but it was interrupted from approximately 3 km and is not treated as a benchmark.
 - Near-term quality roadmap: **3 × 5 min**, then **2 × 8 min**, then **15–20 min continuous at 12.0 km/h**.
-- September projection: convert the August durability gains into a clean sub-27 5k and begin cautious faster work if earned.
+- September projection: consolidate sub-27 fitness, then begin building toward sub-26 with cautious faster work if earned.
 - October projection: increase threshold and 10k-specific endurance while moving toward sub-26 5k fitness.
 
 ## Files

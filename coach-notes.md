@@ -1,26 +1,26 @@
 # Coach Notes
 
-## Current assessment — 28 July 2026
+## Current assessment — 2 August 2026
 
 ### Current estimated fitness
 
-- Flat 5k: approximately **28:00–28:30** today, with a good-day chance of running faster.
-- St Albans parkrun should be interpreted separately because of its elevation profile and frequent family-related interruptions.
-- Sub-27 remains a plausible end-of-August target if the planned progression is absorbed.
+- Flat 5k: approximately **27:30–28:00** today, pending a clean all-out test.
+- St Albans parkrun should still be interpreted separately because of its elevation profile and possible family-related interruptions.
+- Sub-27 remains a plausible end-of-August target if the planned progression continues to be absorbed.
 
 ### Current beliefs
 
 1. **12.0 km/h is established as a training pace.**
-   Progress should now come primarily from extending duration.
+   Progress should continue to come primarily from extending duration.
 
-2. **Aerobic fitness is improving.**
-   Ten minutes at 10.0 km/h inside a longer progression felt controlled on 24 July.
+2. **Aerobic fitness has materially improved.**
+   On 2 August, the final 5 km of a 55-minute progression were completed in approximately 27:30, after an initial walk and easier running.
 
-3. **The next limiter is sustained speed endurance.**
-   Short repetitions are no longer the main question; holding pace for longer is.
+3. **Target pace is becoming sustainable rather than merely achievable.**
+   The athlete completed five minutes at 12.0 km/h at the end of the 2 August progression and felt capable of at least another five minutes.
 
-4. **The 28 July session moved the needle.**
-   Completing 4 × 3 min @ 12.0 km/h increased time at target pace from 10 to 12 minutes and confirmed that the pace can be extended rather than merely reached.
+4. **The next limiter remains sustained speed endurance.**
+   Short repetitions are no longer the main question; holding 12.0 km/h for progressively longer continuous blocks is.
 
 5. **Strength supports the running programme.**
    Dumbbell work at 7 kg currently feels manageable. Core work, especially side planks, remains the more demanding element and should progress gradually.
@@ -30,14 +30,14 @@
 
 ### End-of-August sense check
 
-A 27-minute flat 5k by the end of August is ambitious but plausible if the following progression is absorbed:
+A 27-minute flat 5k by the end of August remains ambitious but plausible if the following progression is absorbed:
 
 - 4 × 3 min @ 12.0 km/h — complete
 - 3 × 5 min @ 12.0 km/h
 - 2 × 8 min @ 12.0 km/h
 - 15–20 min continuous @ 12.0 km/h
 
-Twenty minutes at 12.0 km/h equals 4 km. If that effort is controlled rather than maximal, completing 5 km near 27 minutes becomes a reasonable race target. The key caveat is that training pace after a warm-up does not perfectly predict all-out race durability.
+The 2 August session strengthens the projection because the athlete covered the final 5 km in approximately 27:30 within a longer progression and still reported reserve at 12.0 km/h.
 
 ### What would move the projection
 
@@ -92,6 +92,28 @@ Twenty minutes at 12.0 km/h equals 4 km. If that effort is controlled rather tha
 
 **Observation:** Completed 4 × 3 min @ 12.0 km/h with rep-end HRs of 178, 185, 187 and 189, then ran easily to 48 minutes and 7.35 km.
 
-**Decision:** Progress the next quality session to 3 × 5 min @ 12.0 km/h, subject to normal recovery. Progress Thursday's aerobic finish from 10.5 to 11.0 km/h for five minutes.
+**Decision:** Progress the next quality session to 3 × 5 min @ 12.0 km/h, subject to normal recovery.
 
 **Reason:** Time at target pace increased by 20% without reducing speed or failing the session. The athlete remained confident and completed a controlled finish.
+
+### 30 July 2026
+
+**Observation:** Completed a 50-minute, 7.5 km aerobic session. Exact block details were not retained.
+
+**Decision:** Record the session without reconstructing missing data.
+
+**Reason:** Maintaining an honest factual log is more valuable than inventing precision.
+
+### 31 July 2026
+
+**Observation:** Completed a home strength session, but exact exercise details were not retained.
+
+**Decision:** Record completion only and do not use it as a detailed progression benchmark.
+
+### 2 August 2026
+
+**Observation:** Completed 8.75 km in 55 minutes with a progression ending in 10 min @ 11.0 km/h and 5 min @ 12.0 km/h. The final 5 km took approximately 27:30, and the athlete felt capable of at least another five minutes at 12.0 km/h.
+
+**Decision:** Continue with the planned progression to 3 × 5 min @ 12.0 km/h rather than increasing pace.
+
+**Reason:** Capacity at target pace is improving rapidly. The best next stimulus is longer sustained work at 12.0 km/h, not faster running.

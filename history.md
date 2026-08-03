@@ -48,11 +48,17 @@ The marathon result did not reflect the underlying training fitness. The conditi
 
 ## Post-marathon transition
 
-### New goals
+### New goals at the start of the block
 
 - Primary: sub-50 10k
 - Secondary: sub-27 5k
 - Longer term: sub-45 10k, Serpentine 10 km swim in September 2027, sub-3:30 marathon attempt in March 2028
+
+### Goal revision — 3 August 2026
+
+The Serpentine 10 km swim was moved to a future/on-hold goal because the required swim-specific training time was unlikely to be available over the following year.
+
+The replacement primary 2027 target became **sub-20 5k**, with the understanding that this is a long-range ambition requiring intermediate milestones such as sub-25, sub-23 and sub-21, plus a substantial increase in running durability and economy.
 
 ### Emerging weekly structure
 

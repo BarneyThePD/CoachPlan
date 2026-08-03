@@ -6,9 +6,13 @@ This repository is the source of truth for Robert's running programme.
 
 - **Near-term milestone:** Confirm a clean sub-27 5k
 - **Primary:** Sub-50 10k
+- **2027 primary goal:** Sub-20 5k
 - **Later:** Sub-45 10k
-- **September 2027:** Serpentine 10 km swim
 - **March 2028:** Sub-3:30 marathon attempt
+
+## Future goals / on hold
+
+- **Serpentine 10 km swim:** still of interest, but not a 2027 target because the required swim-specific training time is unlikely to be available.
 
 ## Weekly structure
 
@@ -26,6 +30,7 @@ This repository is the source of truth for Robert's running programme.
 - Recovery is part of the programme.
 - Parkrun is usually a training session unless explicitly designated as a race attempt.
 - Calendar dates guide the roadmap; completed evidence determines progression.
+- The sub-20 goal is a long-range direction, not a reason to skip intermediate milestones or force pace increases.
 
 ## Current fitness snapshot
 
@@ -43,6 +48,13 @@ _Last updated: 2 August 2026_
 - Near-term quality roadmap: **3 × 5 min**, then **2 × 8 min**, then **15–20 min continuous at 12.0 km/h**.
 - September projection: consolidate sub-27 fitness, then begin building toward sub-26 with cautious faster work if earned.
 - October projection: increase threshold and 10k-specific endurance while moving toward sub-26 5k fitness.
+
+## Long-range 5k roadmap
+
+- Confirm sub-27
+- Build toward sub-25
+- Progress through sub-23 and sub-21 milestones
+- Reassess the feasibility and timing of sub-20 as training volume, durability and running economy develop
 
 ## Files
 

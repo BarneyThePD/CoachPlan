@@ -46,6 +46,8 @@
 **Longer term**
 
 - Convert the improving 5k fitness into a **sub-50 10k**.
+- Use progressive 5k milestones — sub-25, sub-23 and sub-21 — to assess whether the new **sub-20 5k target for 2027** remains realistic.
+- Treat sub-20 as a direction for long-term training, not as justification to accelerate the current block prematurely.
 
 ### Current target-pace progression
 
@@ -134,3 +136,11 @@ The 2 August session supports staying with this progression. It does not justify
 **Decision:** Revise current flat 5k fitness from 27:30–28:00 to approximately **26:45–27:10**. Treat sub-27 as the expected flat-course outcome. Continue with 3 × 5 min @ 12.0 km/h rather than increasing pace.
 
 **Reason:** The final 5 km were completed inside a longer progression rather than from fresh, and the athlete still reported meaningful reserve. This is stronger evidence than a standalone 27:30 effort and indicates that 12.0 km/h is becoming sustainable.
+
+### 3 August 2026 — Long-range goal revision
+
+**Observation:** The Serpentine 10 km swim would require more swim-specific training time than is likely to be available over the next year. The athlete would prefer to concentrate that training capacity on running.
+
+**Decision:** Move the Serpentine swim to future/on-hold status and adopt **sub-20 5k in 2027** as the new long-range running target.
+
+**Reason:** The sub-20 goal builds directly on the current running programme, whereas preparing adequately for a 10 km swim would divide limited training time across two demanding disciplines. Intermediate 5k milestones will be used to test whether sub-20 remains realistic.

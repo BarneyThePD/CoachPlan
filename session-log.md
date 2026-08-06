@@ -522,3 +522,48 @@ Recorded as completed, but not used as a detailed strength benchmark.
 **Notes**
 
 Major aerobic breakthrough. Faster running was sustained late in a progressive session rather than from a fresh start, and the final five minutes at 12.0 km/h were completed with reserve. This is strong evidence that target pace is becoming sustainable rather than merely achievable.
+
+---
+
+## 4 August 2026 — Rest due to illness
+
+**Context**
+
+- Mild cold with blocked sinuses.
+- Considered a light strength session in the evening, but symptoms still felt significant enough to prioritise sleep and recovery.
+
+**Notes**
+
+No training completed. The planned quality session was moved rather than forced while unwell.
+
+---
+
+## 6 August 2026 — Quality milestone ⭐
+
+**Warm-up**
+
+- 5 min walk
+- 10 min @ 8.0 km/h — HR 141
+- 10 min @ 9.0 km/h — HR 157
+- 5 min @ 10.0 km/h — HR approximately 160–162
+
+**Main set**
+
+- 3 × 5 min @ 12.0 km/h
+- 90 sec @ 8.0 km/h recoveries
+
+**Rep-end HRs**
+
+- 180
+- 185
+- 187
+
+**Finish**
+
+- Continued easy running to 50:00 total
+- HR 174 at the finish
+- 7.70 km total before cooldown
+
+**Notes**
+
+Third major target-pace milestone. Increased accumulated work at 12.0 km/h from 12 to 15 minutes while keeping the session controlled enough to continue running to 50 minutes. The HR progression flattened from the second to the third rep rather than accelerating sharply.

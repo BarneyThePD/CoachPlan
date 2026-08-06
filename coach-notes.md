@@ -1,11 +1,11 @@
 # Coach Notes
 
-## Current assessment — 2 August 2026
+## Current assessment — 6 August 2026
 
 ### Current estimated fitness
 
 - Flat 5k: approximately **26:45–27:10** today, pending a clean all-out test.
-- A sub-27 flat 5k is now the expected outcome rather than merely an aspirational end-of-August target.
+- A sub-27 flat 5k remains the expected outcome rather than merely an aspirational target.
 - St Albans parkrun should still be interpreted separately because of its elevation profile and possible family-related interruptions.
 
 ### Current beliefs
@@ -16,14 +16,14 @@
 2. **The 2 August progression materially changed the fitness assessment.**
    The athlete completed 8.75 km in 55 minutes, with the final 5 km covered in approximately 27:30 as part of a progressive session rather than a fresh race effort.
 
-3. **The athlete finished with meaningful reserve.**
-   After completing five minutes at 12.0 km/h at the end of the session, the athlete felt capable of at least another five minutes at that pace.
+3. **The 6 August quality session reinforced the model.**
+   Completing 3 × 5 min @ 12.0 km/h increased accumulated target-pace work from 12 to 15 minutes. Rep-end HRs of 180, 185 and 187 showed manageable drift, and the athlete continued running to 50 minutes rather than stopping immediately after the final rep.
 
-4. **Current training is ahead of the original projection.**
-   The earlier roadmap treated sub-27 as a plausible end-of-August outcome after more sustained work at 12.0 km/h. The latest evidence suggests current fitness is already around or slightly better than that level.
-
-5. **The next limiter remains sustained speed endurance.**
+4. **The next limiter remains sustained speed endurance.**
    The key question is no longer whether 12.0 km/h can be reached. It is how long that pace can be sustained before converting the fitness into race performance.
+
+5. **Current training remains ahead of the original projection.**
+   The earlier roadmap treated sub-27 as a plausible end-of-August outcome after more sustained work at 12.0 km/h. The latest evidence suggests current fitness is already around or slightly better than that level.
 
 6. **Strength supports the running programme.**
    Dumbbell work at 7 kg currently feels manageable. Core work, especially side planks, remains the more demanding element and should progress gradually.
@@ -51,18 +51,19 @@
 
 ### Current target-pace progression
 
+- 5 × 2 min @ 12.0 km/h — complete
 - 4 × 3 min @ 12.0 km/h — complete
-- 3 × 5 min @ 12.0 km/h — next
-- 2 × 8 min @ 12.0 km/h
-- 15–20 min continuous @ 12.0 km/h
+- 3 × 5 min @ 12.0 km/h — complete
+- 2 × 8 min @ 12.0 km/h — next
+- 15–20 min continuous @ 12.0 km/h — planned
 
-The 2 August session supports staying with this progression. It does not justify increasing pace yet because the current stimulus is working and sustainable duration remains the most valuable variable to develop.
+The 2 August and 6 August sessions support staying with this progression. They do not justify increasing pace yet because the current stimulus is working and sustainable duration remains the most valuable variable to develop.
 
 ### What would move the projection
 
 **Positive evidence**
 
-- Completing 3 × 5 and 2 × 8 at 12.0 km/h without excessive HR drift.
+- Completing 2 × 8 at 12.0 km/h without excessive HR drift.
 - Running 15–20 minutes continuously at 12.0 km/h with something left.
 - A flat 5k benchmark below 27 minutes.
 - Stable recovery and no persistent soreness.
@@ -144,3 +145,19 @@ The 2 August session supports staying with this progression. It does not justify
 **Decision:** Move the Serpentine swim to future/on-hold status and adopt **sub-20 5k in 2027** as the new long-range running target.
 
 **Reason:** The sub-20 goal builds directly on the current running programme, whereas preparing adequately for a 10 km swim would divide limited training time across two demanding disciplines. Intermediate 5k milestones will be used to test whether sub-20 remains realistic.
+
+### 4 August 2026 — Illness adjustment
+
+**Observation:** Mild cold and blocked sinuses made the planned quality session inappropriate. A light strength session was considered but ultimately skipped when symptoms still felt significant in the evening.
+
+**Decision:** Take a complete rest day and move the quality session rather than trying to preserve the calendar at the expense of recovery.
+
+**Reason:** One missed or shifted session has negligible cost, whereas forcing training through illness risks extending the disruption.
+
+### 6 August 2026 — Quality milestone
+
+**Observation:** Completed 3 × 5 min @ 12.0 km/h with rep-end HRs of 180, 185 and 187 after a warm-up through 10.0 km/h. Continued easy running to 50 minutes, finishing at HR 174 and 7.70 km total.
+
+**Decision:** Mark 3 × 5 complete and make 2 × 8 min @ 12.0 km/h the next quality progression, subject to recovery. Keep the planned 10-minute continuous 12.0 km/h aerobic finish as the next conditional test.
+
+**Reason:** Total target-pace work increased to 15 minutes, HR drift slowed across the final two reps, and the athlete recovered enough to keep running after the main set.

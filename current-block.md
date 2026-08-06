@@ -22,8 +22,8 @@ The current focus is to increase sustainable time at **12.0 km/h** before increa
 |---|---|---|
 | 1 | 5 × 2 min @ 12.0 km/h, 90 sec recoveries | Complete |
 | 2 | 4 × 3 min @ 12.0 km/h, 90 sec recoveries | Complete |
-| 3 | 3 × 5 min @ 12.0 km/h, 90 sec recoveries | Next |
-| 4 | 2 × 8 min @ 12.0 km/h | Planned |
+| 3 | 3 × 5 min @ 12.0 km/h, 90 sec recoveries | Complete |
+| 4 | 2 × 8 min @ 12.0 km/h | Next |
 | 5 | 15–20 min continuous @ 12.0 km/h | Planned |
 
 ## Current aerobic benchmark
@@ -42,28 +42,32 @@ Completed on 2 August:
 - final 5 km in approximately 27:30
 - finished feeling capable of at least another 5 min @ 12.0 km/h
 
-This is now the main aerobic benchmark. It materially changed the fitness assessment: a clean sub-27 flat 5k is now expected, while the next training priority remains extending sustainable time at 12.0 km/h.
+This remains the main aerobic benchmark. It materially changed the fitness assessment: a clean sub-27 flat 5k is now expected, while the next training priority remains extending sustainable time at 12.0 km/h.
+
+## Latest quality benchmark
+
+Completed on 6 August after postponing the session because of a mild cold:
+
+- 5 min walk
+- 10 min @ 8.0 km/h — HR 141
+- 10 min @ 9.0 km/h — HR 157
+- 5 min @ 10.0 km/h — HR approximately 160–162
+- 3 × 5 min @ 12.0 km/h
+- 90 sec @ 8.0 km/h recoveries
+- rep-end HRs: 180, 185, 187
+- easy running to 50:00
+- HR 174 at finish
+- 7.70 km total before cooldown
+
+This increased total work at 12.0 km/h from 12 to 15 minutes and was followed by a controlled run-out rather than an immediate stop.
 
 ## Plan through end of August 2026
 
-### Week of 3 August
+### Remainder of week of 3 August
 
-Subject to recovery:
+The planned quality session is complete.
 
-**Tuesday quality**
-
-- 5 min walk
-- 10 min @ 8.0 km/h
-- 10 min @ 9.0 km/h
-- 5 min @ **10.0 km/h**
-- **3 × 5 min @ 12.0 km/h**
-- 90 sec @ 8.0 km/h recoveries
-- easy running if feeling good
-- 5 min walk and stretching
-
-The final bridge block has progressed from 9.5 to 10.0 km/h because 10.0 km/h is now comfortably established as aerobic. The quality objective remains extending duration at 12.0 km/h rather than increasing interval speed.
-
-**Thursday aerobic — conditional on Tuesday going well**
+**Next aerobic session — subject to normal recovery**
 
 - 5 min walk
 - 10 min @ 8.0 km/h
@@ -73,15 +77,16 @@ The final bridge block has progressed from 9.5 to 10.0 km/h because 10.0 km/h is
 - **10 min continuous @ 12.0 km/h**
 - 5 min walk
 
-This extends the continuous 12.0 km/h finish from five to ten minutes. If Tuesday is unusually hard or recovery is poor, repeat the 2 August progression instead.
+If the recent cold returns, fatigue is unusual, or recovery from the 6 August quality session is poor, repeat the 2 August progression instead of extending the continuous 12.0 km/h block.
 
 **Weekend**
 
 - Training effort or flat-course benchmark depending on recovery.
+- If there is no parkrun, an easy aerobic run with short relaxed strides is a valid alternative.
 
 **Strength**
 
-- One or two short sessions if they do not compromise running.
+- One short session if it does not compromise recovery.
 
 ### Week of 10 August
 

@@ -8,6 +8,12 @@
 - A sub-27 flat 5k remains the expected outcome rather than merely an aspirational target.
 - St Albans parkrun should still be interpreted separately because of its elevation profile and possible family-related interruptions.
 
+### Lifetime benchmark context
+
+- Lifetime 5k PB: **22:50**, set approximately 14 years ago at around age 23.
+- This is a meaningful long-term benchmark but not an immediate target from current fitness.
+- The next major progression path is: confirm sub-27 → sub-25 → beat 22:50 → sub-22 → sub-21 → reassess the timing of sub-20.
+
 ### Current beliefs
 
 1. **12.0 km/h is becoming sustainable rather than merely achievable.**
@@ -46,7 +52,7 @@
 **Longer term**
 
 - Convert the improving 5k fitness into a **sub-50 10k**.
-- Use progressive 5k milestones — sub-25, sub-23 and sub-21 — to assess whether the new **sub-20 5k target for 2027** remains realistic.
+- Use progressive 5k milestones — sub-25, beating the lifetime PB of **22:50**, then sub-22 and sub-21 — to assess whether the **sub-20 5k target for 2027** remains realistic.
 - Treat sub-20 as a direction for long-term training, not as justification to accelerate the current block prematurely.
 
 ### Current target-pace progression
@@ -181,3 +187,11 @@ Strength remains subordinate to running. Progress only when the current workload
 **Decision:** Adopt **9.5 kg** as the new baseline for RDLs and rows. Maintain weighted bilateral calf raises at 2 × 9.5 kg for now rather than moving immediately to single-leg work. Keep core progression conservative.
 
 **Reason:** The previous 7 kg load had become comfortably manageable. The increased resistance was absorbed without difficulty, while side planks still provide sufficient challenge and remain the main strength limiter.
+
+### 7 August 2026 — Lifetime 5k benchmark added
+
+**Observation:** Lifetime 5k PB is **22:50**, set approximately 14 years ago at around age 23.
+
+**Decision:** Add 22:50 as a formal long-term benchmark and place beating it between the sub-25 and sub-22 milestones.
+
+**Reason:** The PB is materially faster than current fitness, so it should not distort the present block, but it provides an important proven reference point for the longer-term return-to-peak progression.

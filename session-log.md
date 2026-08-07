@@ -567,3 +567,26 @@ No training completed. The planned quality session was moved rather than forced 
 **Notes**
 
 Third major target-pace milestone. Increased accumulated work at 12.0 km/h from 12 to 15 minutes while keeping the session controlled enough to continue running to 50 minutes. The HR progression flattened from the second to the third rep rather than accelerating sharply.
+
+---
+
+## 7 August 2026 — Home strength progression
+
+**Session**
+
+- Romanian deadlifts — **2 × 10 with 2 × 9.5 kg dumbbells**
+- Single-arm dumbbell rows — **2 × 10 each side with 9.5 kg**
+- Standing calf raises — **3 × 15 holding 2 × 9.5 kg dumbbells**
+- Front planks — **2 sets**
+- Side planks — **2 sets each side**
+
+**Subjective feedback**
+
+- RDLs at 9.5 kg felt OK.
+- Rows at 9.5 kg were completed successfully.
+- Weighted calf raises felt fine.
+- Side planks remained hard and were the most challenging part of the session.
+
+**Notes**
+
+Established **9.5 kg** as the new baseline load for RDLs and rows. Weighted calf raises were comfortably completed at the same dumbbell load, so there is no need to switch immediately to single-leg variations. Core work, particularly side planks, remains the current strength limiter and should progress gradually without compromising running.

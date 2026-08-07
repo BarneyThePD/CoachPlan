@@ -10,6 +10,11 @@ This repository is the source of truth for Robert's running programme.
 - **Later:** Sub-45 10k
 - **March 2028:** Sub-3:30 marathon attempt
 
+## Lifetime benchmarks
+
+- **5k PB:** **22:50**, set approximately 14 years ago at around age 23.
+- Treat this as a meaningful long-term benchmark rather than an immediate target.
+
 ## Future goals / on hold
 
 - **Serpentine 10 km swim:** still of interest, but not a 2027 target because the required swim-specific training time is unlikely to be available.
@@ -57,7 +62,8 @@ _Last updated: 6 August 2026_
 
 - Confirm sub-27
 - Build toward sub-25
-- Progress through sub-23 and sub-21 milestones
+- Beat lifetime PB of **22:50**
+- Progress through sub-22 and sub-21 milestones
 - Reassess the feasibility and timing of sub-20 as training volume, durability and running economy develop
 
 ## Files

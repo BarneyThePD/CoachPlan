@@ -1,6 +1,6 @@
 # Coach Notes
 
-## Current assessment — 6 August 2026
+## Current assessment — 7 August 2026
 
 ### Current estimated fitness
 
@@ -25,8 +25,8 @@
 5. **Current training remains ahead of the original projection.**
    The earlier roadmap treated sub-27 as a plausible end-of-August outcome after more sustained work at 12.0 km/h. The latest evidence suggests current fitness is already around or slightly better than that level.
 
-6. **Strength supports the running programme.**
-   Dumbbell work at 7 kg currently feels manageable. Core work, especially side planks, remains the more demanding element and should progress gradually.
+6. **Strength is now progressing beyond maintenance.**
+   RDLs and rows have moved from 7 kg to a new 9.5 kg baseline. Weighted calf raises were also completed at 2 × 9.5 kg. Core work, especially side planks, remains the more demanding element and should progress gradually.
 
 7. **Interrupted parkruns are not benchmarks.**
    The 25 July result should not be used to assess fitness because the run became stop-start after Jesse fell at around 3 km.
@@ -58,6 +58,18 @@
 - 15–20 min continuous @ 12.0 km/h — planned
 
 The 2 August and 6 August sessions support staying with this progression. They do not justify increasing pace yet because the current stimulus is working and sustainable duration remains the most valuable variable to develop.
+
+### Current strength baselines
+
+| Exercise | Current baseline | Progression note |
+|---|---|---|
+| Romanian deadlift | **2 × 10 @ 2 × 9.5 kg** | Maintain until clearly comfortable, then reassess load or volume |
+| Single-arm row | **2 × 10 each side @ 9.5 kg** | Maintain until clearly comfortable, then reassess load or volume |
+| Standing calf raise | **3 × 15 @ 2 × 9.5 kg** | Keep weighted bilateral version for now; single-leg progression can wait |
+| Front plank | **2 sets** | Progress hold quality/duration gradually |
+| Side plank | **2 sets each side** | Current strength limiter; maintain quality before adding difficulty |
+
+Strength remains subordinate to running. Progress only when the current workload is comfortably absorbed and does not compromise key sessions.
 
 ### What would move the projection
 
@@ -161,3 +173,11 @@ The 2 August and 6 August sessions support staying with this progression. They d
 **Decision:** Mark 3 × 5 complete and make 2 × 8 min @ 12.0 km/h the next quality progression, subject to recovery. Keep the planned 10-minute continuous 12.0 km/h aerobic finish as the next conditional test.
 
 **Reason:** Total target-pace work increased to 15 minutes, HR drift slowed across the final two reps, and the athlete recovered enough to keep running after the main set.
+
+### 7 August 2026 — Strength progression
+
+**Observation:** Increased RDLs and rows from 7 kg to 9.5 kg. Completed RDLs at 2 × 10 with 2 × 9.5 kg, rows at 2 × 10 each side with 9.5 kg, and standing calf raises at 3 × 15 holding 2 × 9.5 kg. RDLs felt OK, calf raises felt fine, and side planks remained hard.
+
+**Decision:** Adopt **9.5 kg** as the new baseline for RDLs and rows. Maintain weighted bilateral calf raises at 2 × 9.5 kg for now rather than moving immediately to single-leg work. Keep core progression conservative.
+
+**Reason:** The previous 7 kg load had become comfortably manageable. The increased resistance was absorbed without difficulty, while side planks still provide sufficient challenge and remain the main strength limiter.

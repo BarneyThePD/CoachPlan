@@ -1,11 +1,11 @@
 # Coach Notes
 
-## Current assessment — 7 August 2026
+## Current assessment — 9 August 2026
 
 ### Current estimated fitness
 
-- Flat 5k: approximately **26:45–27:10** today, pending a clean all-out test.
-- A sub-27 flat 5k remains the expected outcome rather than merely an aspirational target.
+- Flat 5k: approximately **26:15–26:45** today, pending a clean all-out test.
+- A sub-27 flat 5k is now strongly expected rather than merely plausible.
 - St Albans parkrun should still be interpreted separately because of its elevation profile and possible family-related interruptions.
 
 ### Lifetime benchmark context
@@ -16,20 +16,20 @@
 
 ### Current beliefs
 
-1. **12.0 km/h is becoming sustainable rather than merely achievable.**
-   Progress should continue to come primarily from extending duration rather than increasing pace.
+1. **12.0 km/h is now a sustainable training pace.**
+   The athlete has progressed from short repetitions to 10 continuous minutes at 12.0 km/h after 45 minutes of progressive running.
 
-2. **The 2 August progression materially changed the fitness assessment.**
-   The athlete completed 8.75 km in 55 minutes, with the final 5 km covered in approximately 27:30 as part of a progressive session rather than a fresh race effort.
+2. **The 9 August progression materially strengthened the fitness model.**
+   The final 5 km of the session were completed in approximately 26:45, and the athlete still felt capable of about one additional minute at 12.0 km/h.
 
-3. **The 6 August quality session reinforced the model.**
-   Completing 3 × 5 min @ 12.0 km/h increased accumulated target-pace work from 12 to 15 minutes. Rep-end HRs of 180, 185 and 187 showed manageable drift, and the athlete continued running to 50 minutes rather than stopping immediately after the final rep.
+3. **The sub-27 question is effectively answered in training.**
+   A formal flat 5k benchmark is still valuable, but current evidence points to fitness clearly inside 27 minutes.
 
-4. **The next limiter remains sustained speed endurance.**
-   The key question is no longer whether 12.0 km/h can be reached. It is how long that pace can be sustained before converting the fitness into race performance.
+4. **The next limiter is no longer simply sustaining 12.0 km/h.**
+   The programme can now begin to introduce small amounts of faster running while still completing the remaining durability work around 12.0 km/h.
 
 5. **Current training remains ahead of the original projection.**
-   The earlier roadmap treated sub-27 as a plausible end-of-August outcome after more sustained work at 12.0 km/h. The latest evidence suggests current fitness is already around or slightly better than that level.
+   The earlier roadmap treated sub-27 as a plausible end-of-August outcome. The latest evidence suggests current fitness is already around 26:15–26:45.
 
 6. **Strength is now progressing beyond maintenance.**
    RDLs and rows have moved from 7 kg to a new 9.5 kg baseline. Weighted calf raises were also completed at 2 × 9.5 kg. Core work, especially side planks, remains the more demanding element and should progress gradually.
@@ -41,13 +41,13 @@
 
 **Near term — August**
 
-- Flat 5k: **sub-27 expected** on a flat course with an uninterrupted, well-paced effort.
-- Continue to establish repeatable sub-27 fitness rather than forcing an immediate maximal test.
+- Flat 5k: **sub-27 strongly expected** on a flat course with an uninterrupted, well-paced effort.
+- Complete the final durability step at 12.0 km/h, then begin cautiously introducing faster running.
 
 **September**
 
-- Begin building towards **sub-26** 5k fitness if the target-pace progression continues to be absorbed.
-- Maintain aerobic development while gradually adding longer threshold-style work.
+- Begin building towards **sub-26 and sub-25:xx** fitness if the current progression continues to be absorbed.
+- Maintain aerobic development while adding controlled work above 12.0 km/h.
 
 **Longer term**
 
@@ -60,10 +60,11 @@
 - 5 × 2 min @ 12.0 km/h — complete
 - 4 × 3 min @ 12.0 km/h — complete
 - 3 × 5 min @ 12.0 km/h — complete
+- 10 min continuous @ 12.0 km/h after a long progression — complete
 - 2 × 8 min @ 12.0 km/h — next
-- 15–20 min continuous @ 12.0 km/h — planned
+- 15–20 min continuous @ 12.0 km/h — still useful, but no longer a prerequisite before introducing small doses of faster running
 
-The 2 August and 6 August sessions support staying with this progression. They do not justify increasing pace yet because the current stimulus is working and sustainable duration remains the most valuable variable to develop.
+The 9 August session marks the end of the phase where the main question was whether 12.0 km/h was sustainable. The next phase should preserve that durability while introducing small, controlled exposures above 12.0 km/h.
 
 ### Current strength baselines
 
@@ -82,15 +83,15 @@ Strength remains subordinate to running. Progress only when the current workload
 **Positive evidence**
 
 - Completing 2 × 8 at 12.0 km/h without excessive HR drift.
-- Running 15–20 minutes continuously at 12.0 km/h with something left.
-- A flat 5k benchmark below 27 minutes.
+- A clean flat 5k benchmark below 27 minutes, especially near 26:30 or faster.
+- Controlled exposure to 12.5–13.0 km/h without disrupting recovery.
 - Stable recovery and no persistent soreness.
 
 **Negative evidence**
 
-- Repeated inability to complete planned duration at 12.0 km/h.
 - Accumulating fatigue across quality, aerobic and parkrun sessions.
 - Persistent pain or altered gait.
+- Faster work compromising the aerobic base or key quality sessions.
 
 ## Decision log
 
@@ -195,3 +196,11 @@ Strength remains subordinate to running. Progress only when the current workload
 **Decision:** Add 22:50 as a formal long-term benchmark and place beating it between the sub-25 and sub-22 milestones.
 
 **Reason:** The PB is materially faster than current fitness, so it should not distort the present block, but it provides an important proven reference point for the longer-term return-to-peak progression.
+
+### 9 August 2026 — Aerobic milestone / model update
+
+**Observation:** Completed 8.87 km in 55 minutes with a progression through 8.0, 9.0, 10.0, 10.5 and 11.0 km/h before **10 continuous minutes at 12.0 km/h**. HR progressed 140, 152, 164, 168, 179, 187. The final 5 km took approximately **26:45**, and the athlete felt capable of about one additional minute at 12.0 km/h.
+
+**Decision:** Treat 12.0 km/h as a sustainable training pace and revise current flat 5k estimate to approximately **26:15–26:45**. Keep 2 × 8 min @ 12.0 km/h as the next durability session, but no longer require 15–20 continuous minutes at 12.0 before introducing small amounts of faster running.
+
+**Reason:** The athlete demonstrated sub-27 pace over the final 5 km of a longer progression and still finished with reserve. This materially reduces uncertainty around sub-27 capability and supports beginning the transition from pure 12.0 km/h durability toward a mixed durability-plus-speed phase.

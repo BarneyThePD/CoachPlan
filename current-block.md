@@ -7,7 +7,7 @@ Build towards:
 - **Confirming a clean sub-27 5k**
 - **Sub-50 10k**
 
-The current focus is to increase sustainable time at **12.0 km/h** before increasing speed further.
+The current phase has shifted from proving that **12.0 km/h** is sustainable to preserving that durability while gradually introducing faster running.
 
 ## Weekly structure
 
@@ -23,26 +23,27 @@ The current focus is to increase sustainable time at **12.0 km/h** before increa
 | 1 | 5 × 2 min @ 12.0 km/h, 90 sec recoveries | Complete |
 | 2 | 4 × 3 min @ 12.0 km/h, 90 sec recoveries | Complete |
 | 3 | 3 × 5 min @ 12.0 km/h, 90 sec recoveries | Complete |
-| 4 | 2 × 8 min @ 12.0 km/h | Next |
-| 5 | 15–20 min continuous @ 12.0 km/h | Planned |
+| 4 | 10 min continuous @ 12.0 km/h after long progression | Complete |
+| 5 | 2 × 8 min @ 12.0 km/h | Next |
+| 6 | 15–20 min continuous @ 12.0 km/h | Useful but no longer prerequisite for faster work |
 
 ## Current aerobic benchmark
 
-Completed on 2 August:
+Completed on 9 August:
 
 - 5 min walk
-- 10 min @ 8.0 km/h
-- 10 min @ 9.0 km/h
-- 5 min @ 10.0 km/h
-- 10 min @ 10.5 km/h
-- 10 min @ 11.0 km/h
-- 5 min @ 12.0 km/h
-- 55:00 total
-- 8.75 km
-- final 5 km in approximately 27:30
-- finished feeling capable of at least another 5 min @ 12.0 km/h
+- 10 min @ 8.0 km/h — HR 140
+- 10 min @ 9.0 km/h — HR 152
+- 5 min @ 10.0 km/h — HR 164
+- 5 min @ 10.5 km/h — HR 168
+- 10 min @ 11.0 km/h — HR 179
+- 10 min @ 12.0 km/h — HR 187
+- 55:00 total before cooldown
+- 8.87 km
+- final 5 km in approximately **26:45**
+- finished feeling capable of approximately one more minute @ 12.0 km/h
 
-This remains the main aerobic benchmark. It materially changed the fitness assessment: a clean sub-27 flat 5k is now expected, while the next training priority remains extending sustainable time at 12.0 km/h.
+This supersedes the 2 August benchmark. It establishes 12.0 km/h as a sustainable training pace and materially reduces uncertainty around sub-27 capability.
 
 ## Latest quality benchmark
 
@@ -63,46 +64,22 @@ This increased total work at 12.0 km/h from 12 to 15 minutes and was followed by
 
 ## Plan through end of August 2026
 
-### Remainder of week of 3 August
-
-The planned quality session is complete.
-
-**Next aerobic session — subject to normal recovery**
-
-- 5 min walk
-- 10 min @ 8.0 km/h
-- 10 min @ 9.0 km/h
-- 5 min @ 10.0 km/h
-- 10 min @ 10.5 km/h
-- **10 min continuous @ 12.0 km/h**
-- 5 min walk
-
-If the recent cold returns, fatigue is unusual, or recovery from the 6 August quality session is poor, repeat the 2 August progression instead of extending the continuous 12.0 km/h block.
-
-**Weekend**
-
-- Training effort or flat-course benchmark depending on recovery.
-- If there is no parkrun, an easy aerobic run with short relaxed strides is a valid alternative.
-
-**Strength**
-
-- One short session if it does not compromise recovery.
-
 ### Week of 10 August
 
-Subject to response:
+Subject to normal recovery:
 
 - Quality: **2 × 8 min @ 12.0 km/h**
-- Aerobic: consolidate
-- Weekend: strong effort or clean 5k benchmark if appropriate
+- Aerobic: consolidate the new 9 August benchmark with a slightly easier progression rather than immediately extending again
+- Weekend: parkrun or clean 5k benchmark if practical; otherwise aerobic running plus **6 × 20 sec relaxed strides** around 13.5–14.0 km/h
+- Strength: one or two short sessions if they do not compromise running
 
 ### Week of 17 August
 
 Subject to response:
 
-- Quality: **15–20 min continuous @ 12.0 km/h**, or a safer intermediate session if needed
-- Aerobic: consolidate
-- Weekend: optional controlled benchmark
+- Quality: either **15–20 min continuous @ 12.0 km/h** or a mixed session introducing small controlled doses at **12.5–13.0 km/h**
+- Aerobic: maintain 45–55 min progression/steady work
+- Weekend: optional benchmark or aerobic + strides
 
 ### Week of 24 August
 
@@ -110,9 +87,10 @@ Freshen slightly and attempt a hard 5k on the flattest practical course if a cle
 
 ## Success criteria by end of August
 
-- 15–20 minutes continuous at 12.0 km/h is controlled.
-- The 2 August-style aerobic progression feels repeatable.
-- A clean flat 5k confirms **sub-27 fitness**, with current estimated fitness approximately **26:45–27:10**.
+- 2 × 8 min at 12.0 km/h is controlled.
+- 12.0 km/h remains repeatable without excessive fatigue.
+- Small exposures above 12.0 km/h are introduced without compromising recovery.
+- A clean flat 5k confirms the current estimated fitness of approximately **26:15–26:45**.
 - No persistent injury or accumulating fatigue.
 
 # Projected September 2026 plan
@@ -121,11 +99,11 @@ This is a projection and should change if August evidence points elsewhere.
 
 ## Main objective
 
-Consolidate sub-27 fitness, then begin building toward sub-26 while preserving the aerobic base needed for the sub-50 10k goal.
+Build toward **sub-26 and sub-25:xx 5k fitness** while preserving the aerobic base needed for the sub-50 10k goal.
 
 ## Likely structure
 
-- One weekly quality session focused on sustained 5k/10k pace.
+- One weekly quality session combining threshold work and controlled faster running.
 - One weekly aerobic progression or steady run.
 - One parkrun or 5k-specific effort when recovery allows.
 - One or two short strength sessions.
@@ -134,19 +112,16 @@ Consolidate sub-27 fitness, then begin building toward sub-26 while preserving t
 
 Choose based on August results rather than following all of these rigidly:
 
-- 4 × 5 min @ 12.0 km/h
-- 3 × 7 min @ 12.0 km/h
 - 20–25 min continuous around threshold effort
-- Shorter 600–1,000 m repetitions slightly faster than 12.0 km/h, introduced cautiously
+- 3 × 7–8 min around threshold
+- 600–1,000 m repetitions around 12.5–13.5 km/h
+- Short relaxed strides around 13.5–14.5 km/h on non-parkrun weekends
 
 ## September target
 
-- Confirm and repeat a clean **sub-27 flat 5k**.
-- If sub-27 is achieved comfortably, begin shifting emphasis toward **sub-26** and sub-50 10k durability.
-
-## Progression trigger
-
-Faster-than-12.0 km/h repetitions are introduced only after sustained work at 12.0 km/h is clearly controlled and recovery remains stable.
+- Confirm and repeat a clean sub-27 flat 5k.
+- Move toward **sub-26 / sub-25:xx** fitness.
+- Make running above 12.0 km/h increasingly familiar without sacrificing aerobic durability.
 
 # Projected October 2026 plan
 
@@ -170,14 +145,14 @@ Develop threshold strength and longer 10k-specific endurance while retaining eno
 
 ## October target
 
-- Move toward **sub-26 5k fitness** if September progresses well.
+- Move toward **sub-26 / sub-25 fitness** if September progresses well.
 - Build the durability required to sustain 5:00/km for substantially longer periods.
 - Decide whether a late-2026 sub-50 10k attempt is realistic based on clean benchmark evidence.
 
 ## Review triggers
 
-- A clean sub-27 5k shifts emphasis toward sub-26 and 10k durability.
-- A controlled sub-25-minute 5k becomes a necessary milestone before a sub-50 10k attempt.
+- A clean sub-27 5k shifts emphasis toward sub-26/sub-25 and 10k durability.
+- Evidence of roughly sub-25 5k fitness is sufficient to consider a sub-50 10k attempt; an official sub-25 race is useful but not mandatory.
 - Any persistent soreness, altered gait or accumulated fatigue delays progression regardless of the calendar.
 
 ## Adjustment rules

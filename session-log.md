@@ -590,3 +590,37 @@ Third major target-pace milestone. Increased accumulated work at 12.0 km/h from 
 **Notes**
 
 Established **9.5 kg** as the new baseline load for RDLs and rows. Weighted calf raises were comfortably completed at the same dumbbell load, so there is no need to switch immediately to single-leg variations. Core work, particularly side planks, remains the current strength limiter and should progress gradually without compromising running.
+
+---
+
+## 9 August 2026 — Aerobic progression milestone ⭐
+
+**Session**
+
+- 5 min walk
+- 10 min @ 8.0 km/h — HR 140
+- 10 min @ 9.0 km/h — HR 152
+- 5 min @ 10.0 km/h — HR 164
+- 5 min @ 10.5 km/h — HR 168
+- 10 min @ 11.0 km/h — HR 179
+- 10 min @ 12.0 km/h — HR 187
+- 5 min cooldown walk
+- Stretching after the cooldown
+
+**Total before cooldown**
+
+- 55:00
+- 8.87 km
+
+**Key benchmark within the session**
+
+- Final 5 km completed in approximately **26:45**.
+- Completed **10 continuous minutes at 12.0 km/h** after 45 minutes of progressive running.
+
+**Subjective feedback**
+
+- Felt capable of approximately **one additional minute at 12.0 km/h** if required.
+
+**Notes**
+
+Fourth major milestone of the block. Demonstrated sub-27 capability inside a longer progression rather than from fresh, while also doubling the previous continuous 12.0 km/h finish from five to ten minutes. The athlete finished close to the intended training limit but not at complete exhaustion, indicating that 12.0 km/h is now a sustainable training pace rather than merely a pace that can be reached.

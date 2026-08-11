@@ -624,3 +624,31 @@ Established **9.5 kg** as the new baseline load for RDLs and rows. Weighted calf
 **Notes**
 
 Fourth major milestone of the block. Demonstrated sub-27 capability inside a longer progression rather than from fresh, while also doubling the previous continuous 12.0 km/h finish from five to ten minutes. The athlete finished close to the intended training limit but not at complete exhaustion, indicating that 12.0 km/h is now a sustainable training pace rather than merely a pace that can be reached.
+
+---
+
+## 11 August 2026 — Quality milestone ⭐
+
+**Warm-up**
+
+- 5 min walk
+- 10 min @ 8.5 km/h — HR 135
+- 5 min @ 9.5 km/h — HR 147
+- 5 min @ 10.5 km/h — HR 161
+
+**Main set**
+
+- 8 min @ 12.0 km/h — HR 177
+- 90 sec @ 8.0 km/h recovery
+- 8 min @ 12.0 km/h — HR 185
+
+**Finish**
+
+- Easy running @ 8.0 km/h to 45:00 total
+- HR 168 at 45:00
+- 7.29 km total before cooldown
+- Cooldown walk and stretching completed after the run
+
+**Notes**
+
+Fifth major target-pace milestone. Completed 16 minutes at 12.0 km/h with only one recovery, extending the durability progression beyond the 3 × 5 session. The shorter, slightly faster warm-up worked well: quality work began after 25 minutes rather than 30, and the first 8-minute rep finished at HR 177. This confirms that the old 30-minute warm-up is no longer necessary as a default for quality sessions.

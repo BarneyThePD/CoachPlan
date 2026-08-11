@@ -12,7 +12,7 @@ The current phase has shifted from proving that **12.0 km/h** is sustainable to 
 ## Weekly structure
 
 - **Tuesday:** Quality
-- **Thursday:** Aerobic progression
+- **Thursday:** Aerobic progression / speed economy
 - **Saturday or Sunday:** Parkrun, aerobic progression or equivalent
 - **Strength:** 1–2 short sessions where recovery allows
 
@@ -24,7 +24,7 @@ The current phase has shifted from proving that **12.0 km/h** is sustainable to 
 | 2 | 4 × 3 min @ 12.0 km/h, 90 sec recoveries | Complete |
 | 3 | 3 × 5 min @ 12.0 km/h, 90 sec recoveries | Complete |
 | 4 | 10 min continuous @ 12.0 km/h after long progression | Complete |
-| 5 | 2 × 8 min @ 12.0 km/h | Next |
+| 5 | 2 × 8 min @ 12.0 km/h, 90 sec recovery | Complete |
 | 6 | 15–20 min continuous @ 12.0 km/h | Useful but no longer prerequisite for faster work |
 
 ## Current aerobic benchmark
@@ -43,42 +43,64 @@ Completed on 9 August:
 - final 5 km in approximately **26:45**
 - finished feeling capable of approximately one more minute @ 12.0 km/h
 
-This supersedes the 2 August benchmark. It establishes 12.0 km/h as a sustainable training pace and materially reduces uncertainty around sub-27 capability.
+This remains the main aerobic benchmark. It establishes 12.0 km/h as a sustainable training pace and materially reduces uncertainty around sub-27 capability.
 
 ## Latest quality benchmark
 
-Completed on 6 August after postponing the session because of a mild cold:
+Completed on 11 August:
 
 - 5 min walk
-- 10 min @ 8.0 km/h — HR 141
-- 10 min @ 9.0 km/h — HR 157
-- 5 min @ 10.0 km/h — HR approximately 160–162
-- 3 × 5 min @ 12.0 km/h
-- 90 sec @ 8.0 km/h recoveries
-- rep-end HRs: 180, 185, 187
-- easy running to 50:00
-- HR 174 at finish
-- 7.70 km total before cooldown
+- 10 min @ 8.5 km/h — HR 135
+- 5 min @ 9.5 km/h — HR 147
+- 5 min @ 10.5 km/h — HR 161
+- 8 min @ 12.0 km/h — HR 177
+- 90 sec @ 8.0 km/h recovery
+- 8 min @ 12.0 km/h — HR 185
+- easy running @ 8.0 km/h to 45:00
+- HR 168 at finish
+- 7.29 km before cooldown
 
-This increased total work at 12.0 km/h from 12 to 15 minutes and was followed by a controlled run-out rather than an immediate stop.
+This completed the 2 × 8 progression and validated a shorter, slightly faster warm-up template for quality sessions.
 
 ## Plan through end of August 2026
 
 ### Week of 10 August
 
-Subject to normal recovery:
+**Tuesday quality — complete**
 
-- Quality: **2 × 8 min @ 12.0 km/h**
-- Aerobic: consolidate the new 9 August benchmark with a slightly easier progression rather than immediately extending again
-- Weekend: parkrun or clean 5k benchmark if practical; otherwise aerobic running plus **6 × 20 sec relaxed strides** around 13.5–14.0 km/h
-- Strength: one or two short sessions if they do not compromise running
+- **2 × 8 min @ 12.0 km/h** completed with 90 sec recovery.
+- Shorter warm-up of 5 min walk + 10 min @ 8.5 + 5 min @ 9.5 + 5 min @ 10.5 worked well and becomes the default quality-session template for now.
+
+**Thursday aerobic + first 15.0 km/h exposure — subject to normal recovery**
+
+Keep the main session aerobic, then introduce very short speed-economy exposures:
+
+- 5 min walk
+- 10 min @ 8.5 km/h
+- 10–15 min controlled aerobic running around 9.5–10.5 km/h
+- **4–6 × 15 sec @ 15.0 km/h**
+- **90–120 sec very easy walk/jog recovery** between exposures
+- easy cooldown
+
+Purpose: experience 4:00/km mechanics and turnover while fresh enough to run relaxed. This is **speed exposure, not a hard interval session**. Stop if form becomes strained, calves/hamstrings feel unusually tight, or the pace feels uncontrolled.
+
+**Weekend**
+
+- Parkrun or clean 5k benchmark if practical.
+- If no parkrun, use easy aerobic running and only repeat strides if Thursday's 15.0 km/h exposure was comfortably absorbed.
+
+**Strength**
+
+- One or two short sessions if they do not compromise running.
+- Maintain current 9.5 kg baselines rather than progressing load again this week.
 
 ### Week of 17 August
 
 Subject to response:
 
-- Quality: either **15–20 min continuous @ 12.0 km/h** or a mixed session introducing small controlled doses at **12.5–13.0 km/h**
+- Quality: either **15–20 min continuous @ 12.0 km/h** or a mixed session introducing controlled doses at **12.5–13.0 km/h**
 - Aerobic: maintain 45–55 min progression/steady work
+- Speed economy: retain short relaxed exposures above 12.0 km/h if recovery is stable
 - Weekend: optional benchmark or aerobic + strides
 
 ### Week of 24 August
@@ -87,9 +109,9 @@ Freshen slightly and attempt a hard 5k on the flattest practical course if a cle
 
 ## Success criteria by end of August
 
-- 2 × 8 min at 12.0 km/h is controlled.
+- 2 × 8 min at 12.0 km/h is controlled — **complete**.
 - 12.0 km/h remains repeatable without excessive fatigue.
-- Small exposures above 12.0 km/h are introduced without compromising recovery.
+- Small exposures above 12.0 km/h, including brief 15.0 km/h strides, are introduced without compromising recovery.
 - A clean flat 5k confirms the current estimated fitness of approximately **26:15–26:45**.
 - No persistent injury or accumulating fatigue.
 
@@ -115,7 +137,7 @@ Choose based on August results rather than following all of these rigidly:
 - 20–25 min continuous around threshold effort
 - 3 × 7–8 min around threshold
 - 600–1,000 m repetitions around 12.5–13.5 km/h
-- Short relaxed strides around 13.5–14.5 km/h on non-parkrun weekends
+- Short relaxed strides around 13.5–15.0 km/h on non-parkrun weekends, with 15.0 km/h remaining brief until clearly well tolerated
 
 ## September target
 

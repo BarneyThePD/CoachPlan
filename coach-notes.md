@@ -34,8 +34,8 @@
 6. **Long aerobic/progression sessions are naturally approaching 10 km.**
    The 14 August session reached 9.05 km in 57 minutes before cooldown while still including faster work. There is no need to force every session to 10 km, but 60–65 minute aerobic/progression runs can naturally become 10 km sessions over the coming weeks.
 
-7. **Strength is now progressing beyond maintenance.**
-   RDLs and rows use a 9.5 kg baseline. Weighted calf raises are also at 2 × 9.5 kg. Core-duration baselines are now explicit: 2 × 45 sec front planks and 2 × 30 sec side planks each side.
+7. **Strength is moving from general maintenance to a more running-specific programme.**
+   RDLs and rows remain at a 9.5 kg baseline, but the next phase adds unilateral leg strength and more specific calf/soleus work while keeping total strength volume modest enough not to compromise running.
 
 ### Updated projection
 
@@ -56,17 +56,21 @@
 - Use progressive 5k milestones — sub-25, beating the lifetime PB of **22:50**, then sub-22 and sub-21 — to assess whether the **sub-20 5k target for 2027** remains realistic.
 - Treat sub-20 as a direction for long-term training, not as justification to accelerate load prematurely.
 
-### Current strength baselines
+### Strength v2 — current baseline plan
 
-| Exercise | Current baseline | Progression note |
+The strength programme now prioritises **single-leg strength, posterior-chain strength, calf/soleus capacity and trunk stability**.
+
+| Exercise | Current prescription | Progression note |
 |---|---|---|
-| Romanian deadlift | **2 × 10 @ 2 × 9.5 kg** | Maintain until clearly comfortable, then reassess load or volume |
-| Single-arm row | **2 × 10 each side @ 9.5 kg** | Maintain until clearly comfortable, then reassess load or volume |
-| Standing calf raise | **2–3 × 15 @ 2 × 9.5 kg** | Adjust volume around key running sessions |
-| Front plank | **2 × 45 sec** | Progress hold quality/duration gradually |
-| Side plank | **2 × 30 sec each side** | Current core limiter; maintain quality before adding difficulty |
+| Split squat / Bulgarian split squat | **2 × 8 each leg**, initially bodyweight or light load | First exposures deliberately conservative; add load only after soreness/recovery response is known |
+| Romanian deadlift | **2 × 8–10 @ 2 × 9.5 kg** | Progress load when consistently comfortable with ~2 reps in reserve |
+| Single-arm row | **2 × 10 each side @ 9.5 kg** | Maintain until clearly comfortable, then reassess load |
+| Straight-knee calf raise | **2 × 12–15 @ 2 × 9.5 kg** | Keep quality high; progress toward single-leg work later |
+| Bent-knee calf raise | **2 × 12–15**, initially light/moderate | Build soleus capacity; progress cautiously around faster running sessions |
+| Front plank | **2 × 45 sec** | Progress to harder variation before excessively extending hold duration |
+| Side plank | **2 × 30 sec each side** | Current core limiter; progress quality/variation before duration |
 
-Strength remains subordinate to running. Progress only when the current workload is comfortably absorbed and does not compromise key sessions.
+Strength remains subordinate to running. Two short, high-quality sessions per week are preferred to one large session that creates excessive soreness. Plyometrics such as pogo hops/skipping may be introduced later, after the body has adapted to the current faster running and Strength v2 workload.
 
 ### What would move the projection
 
@@ -218,3 +222,11 @@ Strength remains subordinate to running. Progress only when the current workload
 **Decision:** Keep 15.0 km/h as short speed-economy exposure for now; begin filling the middle with sustained work around 12.5–13.5 km/h rather than extending 15.0 aggressively.
 
 **Reason:** The speed itself did not present an obvious mechanical barrier. The next adaptation is increasing sustainable speed while maintaining aerobic durability and injury resilience.
+
+### 14 August 2026 — Strength v2 adopted
+
+**Observation:** The original strength routine has become reliable and well tolerated, but it remains predominantly bilateral and general rather than optimised for running-specific strength.
+
+**Decision:** Add split-squat/Bulgarian split-squat work and bent-knee calf work, retain RDLs/rows, keep explicit plank baselines, and plan later progression toward harder core variations and low-volume plyometrics.
+
+**Reason:** The next running phase includes faster sustained work and 15.0 km/h exposure. Improving unilateral leg strength, calf/soleus capacity and trunk stability should better support running economy and resilience without materially increasing weekly training time.

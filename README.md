@@ -22,7 +22,7 @@ This repository is the source of truth for Robert's running programme.
 ## Weekly structure
 
 - **Tuesday:** Quality session
-- **Thursday:** Aerobic progression
+- **Thursday/Friday:** Aerobic progression / speed economy
 - **Saturday or Sunday:** Parkrun, aerobic progression or equivalent
 - **Strength:** 1–2 short sessions, always subordinate to key running sessions
 
@@ -30,27 +30,26 @@ This repository is the source of truth for Robert's running programme.
 
 - Consistency beats heroic weeks.
 - Progress one variable at a time.
-- Increase time at target pace before increasing pace.
 - Aerobic development remains the foundation.
 - Recovery is part of the programme.
 - Parkrun is usually a training session unless explicitly designated as a race attempt.
 - Calendar dates guide the roadmap; completed evidence determines progression.
 - The sub-20 goal is a long-range direction, not a reason to skip intermediate milestones or force pace increases.
+- 12.0 km/h is now a foundation pace; the current phase is about bridging sustainable work toward faster running while preserving aerobic durability.
 
 ## Current fitness snapshot
 
-_Last updated: 9 August 2026_
+_Last updated: 14 August 2026_
 
-- Completed **8.87 km in 55 minutes** on 9 August, progressing through 8.0, 9.0, 10.0, 10.5 and 11.0 km/h before finishing with **10 continuous minutes at 12.0 km/h**.
-- HR progression was **140, 152, 164, 168, 179, 187** through the session.
-- The final **5 km took approximately 26:45**.
-- Finished the 10-minute 12.0 km/h block feeling capable of approximately **one additional minute** at that pace.
-- Current assessment: **12.0 km/h is now a sustainable training pace**.
-- Current estimated flat 5k fitness is approximately **26:15–26:45**, pending a clean all-out test.
+- 9 August: completed **8.87 km in 55 minutes**, finishing with **10 continuous minutes at 12.0 km/h**; final 5 km approximately **26:45** with about one additional minute at 12.0 still available.
+- 11 August: completed **2 × 8 min at 12.0 km/h** with one 90-second recovery; rep-end HRs **177 / 185**.
+- 14 August: completed **9.05 km in 57 minutes** before cooldown, progressing through 8.5, 9.5, 10.5, 11.0 and 12.0 km/h before the first deliberate short exposures to **15.0 km/h**.
+- The 15.0 km/h exposures targeted roughly 20 seconds each, but exact top-speed time is approximate because the treadmill takes time to accelerate/decelerate.
+- Subjective response to 15.0 km/h: **fast but not frantic**; mechanically OK.
+- Current estimated flat 5k fitness remains approximately **26:15–26:45**, pending a clean all-out test.
 - A clean **sub-27 flat 5k is strongly expected**.
-- Near-term quality roadmap: **2 × 8 min @ 12.0 km/h**, then begin mixing continued 12.0 durability work with small amounts of faster running.
-- September projection: build toward **sub-26 / sub-25:xx** fitness while preserving the aerobic base.
-- October projection: increase threshold and 10k-specific endurance.
+- Longer aerobic/progression sessions are now naturally approaching **10 km**; there is no need to force every session to that distance.
+- Next quality phase: begin sustained work above 12.0 km/h, roughly **12.5–13.5 km/h**, while keeping short relaxed 15.0 km/h speed-economy exposures.
 
 ## Target-pace milestones
 
@@ -58,6 +57,8 @@ _Last updated: 9 August 2026_
 2. **28 July — 4 × 3 min @ 12.0 km/h:** target pace extended.
 3. **6 August — 3 × 5 min @ 12.0 km/h:** sustained target-pace capacity demonstrated.
 4. **9 August — 10 min continuous @ 12.0 km/h after 45 min progression:** 12.0 km/h established as sustainable training pace; final 5 km approximately 26:45.
+5. **11 August — 2 × 8 min @ 12.0 km/h:** core 12.0 km/h durability progression completed.
+6. **14 August — first short 15.0 km/h exposure:** eventual sub-20 pace introduced successfully as speed economy.
 
 ## Long-range 5k roadmap
 

@@ -76,10 +76,29 @@ Maintained the 9.5 kg strength baseline without progressing load. Established ex
 **Subjective feedback**
 
 - Quads felt OK once the session began.
-- 15.0 km/h felt OK mechanically.
+- 15.0 km/h felt fast but not frantic and mechanically OK.
 - Exact time at 15.0 km/h is approximate because the treadmill took time to accelerate and decelerate.
 - Two or three repetitions were intentionally held slightly longer to make sure approximately 20 seconds was actually spent near 15.0 km/h.
 
 **Notes**
 
 First deliberate exposure to eventual sub-20 5k pace (4:00/km). This should be treated as a speed-economy / neuromuscular session rather than a precise interval benchmark because treadmill acceleration makes exact rep duration uncertain. The important result is that 15.0 km/h was tolerated without mechanical difficulty after a substantial aerobic progression. Cooldown walk began immediately after 57 minutes.
+
+---
+
+## 15 August 2026 — St Albans Parkrun / family aerobic
+
+**Result**
+
+- Approximately **34 minutes**
+- 5 km
+
+**Context**
+
+- Ran with Jesse.
+- Jesse wanted to walk frequently, so the session included substantial walking and was intentionally dictated by his pace.
+- Completed the day after the 9.05 km aerobic progression and first 15.0 km/h speed exposure.
+
+**Coach assessment**
+
+Treat as low-intensity family aerobic volume rather than a 5k fitness benchmark. The finishing time contains no useful negative signal about current fitness and does not change the next quality-session progression.

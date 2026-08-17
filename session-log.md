@@ -102,3 +102,21 @@ First deliberate exposure to eventual sub-20 5k pace (4:00/km). This should be t
 **Coach assessment**
 
 Treat as low-intensity family aerobic volume rather than a 5k fitness benchmark. The finishing time contains no useful negative signal about current fitness and does not change the next quality-session progression.
+
+---
+
+## 17 August 2026 — Strength v2 #1
+
+**Session**
+
+- Split squats — **2 × 8 each leg holding 2 × 9.5 kg dumbbells**
+- Romanian deadlifts — **2 × 10 with 2 × 9.5 kg dumbbells**
+- Single-arm rows — **2 × 10 each side @ 9.5 kg**
+- Straight-knee standing calf raises — **2 × 15 holding 2 × 9.5 kg dumbbells**
+- Bent-knee calf raises — **2 × 12 bodyweight**
+- Front planks — **2 × 45 sec**
+- Side planks — **2 × 30 sec each side**
+
+**Notes**
+
+First completed session using the Strength v2 structure. Added meaningful unilateral leg loading through split squats and introduced bent-knee calf raises to target the soleus alongside the existing straight-knee calf work. Split squats were loaded at the same 2 × 9.5 kg dumbbell load used for RDLs rather than being treated as a new bodyweight movement because the athlete has prior experience with the exercise. No further load or volume was added because the next morning is a quality-running day.

@@ -120,3 +120,43 @@ Treat as low-intensity family aerobic volume rather than a 5k fitness benchmark.
 **Notes**
 
 First completed session using the Strength v2 structure. Added meaningful unilateral leg loading through split squats and introduced bent-knee calf raises to target the soleus alongside the existing straight-knee calf work. Split squats were loaded at the same 2 × 9.5 kg dumbbell load used for RDLs rather than being treated as a new bodyweight movement because the athlete has prior experience with the exercise. No further load or volume was added because the next morning is a quality-running day.
+
+---
+
+## 18 August 2026 — First sustained 12.5 km/h quality session ⭐
+
+**Warm-up**
+
+- 5 min walk
+- 10 min @ 8.5 km/h — HR 138
+- 5 min @ 9.5 km/h — HR 157
+- 5 min @ 10.5 km/h — HR 170
+
+**Main set**
+
+- 4 × 3 min @ **12.5 km/h**
+- 90 sec @ 8.5 km/h recoveries
+
+**Rep-end HRs**
+
+- 180
+- 182
+- 185
+- 187
+
+**Finish**
+
+- Continued aerobic running after the final recovery
+- Stopped running at **48:00 total** when the aerobic finish began to feel like a struggle
+- **7.75 km total**
+- HR **183** at 48:00
+- Cooldown walk begun immediately; stretching planned afterwards
+
+**Subjective feedback**
+
+- The 12.5 km/h repetitions were completed successfully with controlled HR progression.
+- The post-interval aerobic running became a struggle, so the planned extension toward 9 km was deliberately abandoned rather than forced.
+
+**Notes**
+
+First successful sustained-quality exposure above 12.0 km/h: 12 minutes total at 12.5 km/h (4:48/km) with smooth rep-end HR drift of 180 → 182 → 185 → 187. This establishes 12.5 km/h as an appropriate new quality stimulus. The difficult aerobic finish is treated as a workload/recovery signal rather than a failed session, particularly because the full Strength v2 session was completed the previous evening. Do not chase arbitrary session distance after the key quality objective is complete; progress 12.5 km/h duration only after normal recovery.

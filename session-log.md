@@ -160,3 +160,27 @@ First completed session using the Strength v2 structure. Added meaningful unilat
 **Notes**
 
 First successful sustained-quality exposure above 12.0 km/h: 12 minutes total at 12.5 km/h (4:48/km) with smooth rep-end HR drift of 180 → 182 → 185 → 187. This establishes 12.5 km/h as an appropriate new quality stimulus. The difficult aerobic finish is treated as a workload/recovery signal rather than a failed session, particularly because the full Strength v2 session was completed the previous evening. Do not chase arbitrary session distance after the key quality objective is complete; progress 12.5 km/h duration only after normal recovery.
+
+---
+
+## 20 August 2026 — Aerobic / threshold durability
+
+**Session**
+
+- 5 min walk
+- 10 min @ 8.5 km/h — HR 140
+- 10 min @ 9.5 km/h — HR 154
+- 10 min @ 10.5 km/h — HR 174
+- 15 min @ 11.0 km/h — HR checkpoints 176 at 41:00, 181 at 45:00, 185 at 50:00
+- 1 min @ 12.0 km/h
+- 4 min @ 9.5 km/h
+
+**Total before cooldown**
+
+- **55:00**
+- **8.80 km**
+- HR **177** at 55:00
+
+**Notes**
+
+Successful sustained aerobic/threshold session 48 hours after the first 12.5 km/h quality workout. The primary objective — 15 continuous minutes at 11.0 km/h after a 30-minute progression — was completed. HR drifted meaningfully across the 11.0 block, confirming that this remains substantial work rather than easy aerobic pace. A planned 5-minute 12.0 finish was appropriately reduced to a single minute before returning to 9.5 km/h. HR recovered from approximately 185 to 177 while still running at 9.5. Cooldown walk began immediately after 55 minutes; stretching planned afterwards. This session complements the 18 August quality work rather than adding another interval stimulus.

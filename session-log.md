@@ -184,3 +184,25 @@ First successful sustained-quality exposure above 12.0 km/h: 12 minutes total at
 **Notes**
 
 Successful sustained aerobic/threshold session 48 hours after the first 12.5 km/h quality workout. The primary objective — 15 continuous minutes at 11.0 km/h after a 30-minute progression — was completed. HR drifted meaningfully across the 11.0 block, confirming that this remains substantial work rather than easy aerobic pace. A planned 5-minute 12.0 finish was appropriately reduced to a single minute before returning to 9.5 km/h. HR recovered from approximately 185 to 177 while still running at 9.5. Cooldown walk began immediately after 55 minutes; stretching planned afterwards. This session complements the 18 August quality work rather than adding another interval stimulus.
+
+---
+
+## 21 August 2026 — Strength v2 full-volume progression
+
+**Session**
+
+- Split squats — **3 × 8 each leg holding 2 × 9.5 kg dumbbells**
+- Romanian deadlifts — **3 × 10 with 2 × 9.5 kg dumbbells**
+- Single-arm rows — **3 × 10 each side @ 9.5 kg**
+- Straight-knee standing calf raises — **3 × 15 holding 2 × 9.5 kg dumbbells**
+- Bent-knee calf raises — **3 × 15 bodyweight**
+- Front planks — **2 × 45 sec**
+- Side planks — **2 × 30 sec each side**
+
+**Subjective feedback**
+
+- Left side felt particularly hard during the single-arm rows, but there was no pain — only greater effort.
+
+**Notes**
+
+First full-volume Strength v2 session. Progressed most loaded movements from two to three sets while keeping resistance unchanged, and progressed bent-knee calf work from 2 × 12 to 3 × 15 bodyweight. The left/right difference on rows should be monitored; future row sets should start on the left and the right should match the left-side reps rather than accumulating extra work. No further load progression is needed until this volume is comfortably absorbed. This session deliberately precedes the Cornwall deload, so mild short-term DOMS is acceptable.

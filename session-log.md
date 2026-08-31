@@ -216,26 +216,27 @@ First full-volume Strength v2 session. Progressed most loaded movements from two
 - First structured gym/run session after approximately 10 days of substantially reduced training during the Cornwall holiday.
 - Returned home after a long drive the previous day.
 
-**Run**
+**Run — corrected warm-up sequence**
 
-- 5 min walk
-- 10 min @ 8.5 km/h — HR **156**
-- 5 min @ 9.5 km/h — HR **166**
-- 5 min @ 10.5 km/h — HR **174**
-- 3 × 3 min @ **12.5 km/h** with 90 sec @ 8.5 km/h recoveries
-- Rep-end HRs: **182, 187, 192**
-- Continued easy running @ 8.5 km/h after rep 3
-- HR **178** at 40:00 and **181** at 42:00
-- **42:00 running / 6.56 km**
-- 5 min cooldown walk
+- Accidentally began with approximately **3 min @ 8.5 km/h** before realising the planned walk had been skipped.
+- Then **5 min walk @ 6.5 km/h**.
+- Returned to **8.5 km/h until 15:00 total** (approximately 7 further minutes at 8.5) — HR **156**.
+- 5 min @ 9.5 km/h — HR **166**.
+- 5 min @ 10.5 km/h — HR **174**.
+- 3 × 3 min @ **12.5 km/h** with 90 sec @ 8.5 km/h recoveries.
+- Rep-end HRs: **182, 187, 192**.
+- Continued easy running @ 8.5 km/h after rep 3.
+- HR **178** at 40:00 and **181** at 42:00.
+- **42:00 total session running time / 6.56 km** as recorded by the treadmill.
+- 5 min cooldown walk.
 
 **Assessment**
 
-Warm-up HR was materially higher than the pre-Cornwall baseline at comparable speeds, so the planned 13.0 km/h test was removed and quality work was capped at 3 × 3 min @ 12.5. The positive signal is that 12.5 km/h remained mechanically/runnably accessible after the deload; the elevated cardiovascular response should be treated as a re-entry/travel-fatigue signal unless it persists across subsequent sessions.
+The HR 156 reading at 15:00 is **not directly comparable** with previous 15-minute warm-up readings because the sequence was interrupted: running began before the walk, followed by five minutes walking and then a restart. It should therefore not be used as strong evidence of a 15–20 bpm deterioration in baseline aerobic response. The later HR values were still relatively high, especially the final 12.5 rep at 192, but the athlete successfully retained 3 × 3 min @ 12.5 after the holiday. Revised interpretation: **fitness appears broadly preserved; cardiovascular readiness from this session is too confounded to make a strong post-holiday fitness judgement.** Reassess using a clean warm-up next session.
 
 **Upper-body accessory — incline press machine**
 
-- **3 × 8 @ 10 kg per side**
+- **3 × 8 @ 10 kg per side**.
 - Set 1 finished with approximately 1–2 reps in reserve.
 - Set 2 completed cleanly.
 - Set 3 completed with essentially no additional clean reps available.
@@ -251,4 +252,4 @@ Established **3 × 8 @ 10 kg per side** as the initial incline-press baseline fo
 
 **Notes**
 
-Useful calibration session rather than a fitness-model update. Do not downgrade the pre-holiday fitness estimate from one elevated-HR return session; reassess after the next normal aerobic/quality session. No lower-body strength was added after the run.
+Useful calibration session rather than a fitness-model downgrade. The clean next-session warm-up is now the important comparator. No lower-body strength was added after the run.

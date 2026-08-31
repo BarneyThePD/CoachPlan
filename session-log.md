@@ -206,3 +206,49 @@ Successful sustained aerobic/threshold session 48 hours after the first 12.5 km/
 **Notes**
 
 First full-volume Strength v2 session. Progressed most loaded movements from two to three sets while keeping resistance unchanged, and progressed bent-knee calf work from 2 × 12 to 3 × 15 bodyweight. The left/right difference on rows should be monitored; future row sets should start on the left and the right should match the left-side reps rather than accumulating extra work. No further load progression is needed until this volume is comfortably absorbed. This session deliberately precedes the Cornwall deload, so mild short-term DOMS is acceptable.
+
+---
+
+## 31 August 2026 — Post-Cornwall re-entry + incline press baseline
+
+**Context**
+
+- First structured gym/run session after approximately 10 days of substantially reduced training during the Cornwall holiday.
+- Returned home after a long drive the previous day.
+
+**Run**
+
+- 5 min walk
+- 10 min @ 8.5 km/h — HR **156**
+- 5 min @ 9.5 km/h — HR **166**
+- 5 min @ 10.5 km/h — HR **174**
+- 3 × 3 min @ **12.5 km/h** with 90 sec @ 8.5 km/h recoveries
+- Rep-end HRs: **182, 187, 192**
+- Continued easy running @ 8.5 km/h after rep 3
+- HR **178** at 40:00 and **181** at 42:00
+- **42:00 running / 6.56 km**
+- 5 min cooldown walk
+
+**Assessment**
+
+Warm-up HR was materially higher than the pre-Cornwall baseline at comparable speeds, so the planned 13.0 km/h test was removed and quality work was capped at 3 × 3 min @ 12.5. The positive signal is that 12.5 km/h remained mechanically/runnably accessible after the deload; the elevated cardiovascular response should be treated as a re-entry/travel-fatigue signal unless it persists across subsequent sessions.
+
+**Upper-body accessory — incline press machine**
+
+- **3 × 8 @ 10 kg per side**
+- Set 1 finished with approximately 1–2 reps in reserve.
+- Set 2 completed cleanly.
+- Set 3 completed with essentially no additional clean reps available.
+
+**Strength assessment**
+
+Established **3 × 8 @ 10 kg per side** as the initial incline-press baseline for the new physique-oriented upper-body work. Keep the load unchanged and progress reps within the 8–12 range before increasing resistance.
+
+**Cooldown / mobility**
+
+- 5 min walking completed after the run.
+- Usual gentle calf/downward-dog and quad stretching, with an optional brief chest stretch after pressing.
+
+**Notes**
+
+Useful calibration session rather than a fitness-model update. Do not downgrade the pre-holiday fitness estimate from one elevated-HR return session; reassess after the next normal aerobic/quality session. No lower-body strength was added after the run.

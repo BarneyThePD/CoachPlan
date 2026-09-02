@@ -253,3 +253,30 @@ Established **3 × 8 @ 10 kg per side** as the initial incline-press baseline fo
 **Notes**
 
 Useful calibration session rather than a fitness-model downgrade. The clean next-session warm-up is now the important comparator. No lower-body strength was added after the run.
+
+---
+
+## 2 September 2026 — Strength v2 + shoulder/soleus progression ⭐
+
+**Session**
+
+- Split squats — **3 × 8 each leg @ 2 × 9.5 kg**
+- Romanian deadlifts — **3 × 10 @ 2 × 9.5 kg**
+- Single-arm rows — **3 × 10 each side @ 9.5 kg**
+- Dumbbell overhead press — **3 × 8 @ 2 × 9.5 kg**
+- Straight-knee standing calf raises — **3 × 15 @ 2 × 9.5 kg**
+- Bent-knee calf raises:
+  - Set 1 — **12 reps with one 9.5 kg dumbbell**
+  - Sets 2–3 — **12 reps @ 2 × 9.5 kg**
+- Front planks — **2 × 45 sec**
+- Side planks — **2 × 30 sec each side**
+
+**Subjective feedback**
+
+- RDLs produced some pulling/tension in the lower back during the first two sets; the third set pulled less.
+- Overhead press at 2 × 9.5 kg felt tough but doable and all three sets of eight were completed.
+- Bent-knee calf raises with 2 × 9.5 kg felt fine.
+
+**Assessment / progression**
+
+Established **3 × 8 @ 2 × 9.5 kg** as the initial overhead-press baseline, adding a meaningful shoulder/triceps hypertrophy stimulus to the physique-oriented programme. Bent-knee calf raises progressed from bodyweight to a working baseline of **2 × 9.5 kg for 12 reps**, materially increasing soleus loading. Keep RDL load unchanged next time and emphasise bracing, hip hinge and only descending as far as a strong hamstring stretch; the lower back should not become the dominant sensation. No need to progress overhead-press load until the current 8–12 rep range is developed cleanly.

@@ -159,19 +159,52 @@ Early-session HR remained ~12–15 bpm above stronger pre-holiday readings, so t
 
 ## 5 September 2026 — Pre-run strength / upper-body consolidation
 
-**Context**
+- Split squats — 2 × 8 each leg @ 2 × 9.5 kg
+- Rows — 3 × 10 each side @ 9.5 kg
+- Overhead press — 3 × 8 @ 2 × 9.5 kg
+- Bent-knee calves — 2 × 12 @ 2 × 9.5 kg
+- Front plank — 2 × 45 sec
+- Side plank — 2 × 30 sec each side
+- RDLs and straight-knee calves deliberately omitted before next-morning run.
 
-Parkrun was missed. A lighter strength session was deliberately used instead, with a gym run planned for the following morning. Lower-body volume was capped to avoid compromising the run.
+---
 
-**Session**
+## 6 September 2026 — Aerobic recovery + first sustained 13.0 km/h ⭐
 
-- Split squats — **2 × 8 each leg @ 2 × 9.5 kg**
-- Single-arm rows — **3 × 10 each side @ 9.5 kg**
-- Dumbbell overhead press — **3 × 8 @ 2 × 9.5 kg**
-- Bent-knee calf raises — **2 × 12 @ 2 × 9.5 kg**
-- Front planks — **2 × 45 sec**
-- Side planks — **2 × 30 sec each side**
+**Run**
 
-**Notes**
+- 5 min walk @ **6.0 km/h**
+- 10 min @ **8.5 km/h** — HR **146**
+- 11 min @ **9.5 km/h** — HR **157** at 26:00 (one accidental extra minute)
+- 10 min @ **10.5 km/h** — HR **174** at 36:00
+- 3 min @ **11.0 km/h** — HR **176** at 39:00
+- 3 min @ **12.5 km/h** — HR **185**
+- 90 sec @ **8.5 km/h** recovery
+- 3 min @ **12.5 km/h** — HR **187**
+- 90 sec @ **8.5 km/h** recovery
+- **3 min @ 13.0 km/h** — HR **189** at 51:00
+- Easy running @ **8.5 km/h** to 56:00 — HR **177**
 
-Second successful exposure to the 3 × 8 overhead-press baseline at 2 × 9.5 kg, consolidating the new shoulder/triceps work. Split-squat and soleus volume were deliberately reduced versus the full Strength v2 session. RDLs and straight-knee calf raises were omitted to reduce lower-body fatigue and give the lower back a break before the next morning's run. This session should be treated as supportive strength work rather than a progression test.
+**Total**
+
+- **56:00**
+- **8.99 km**
+- Cooldown walk completed afterwards; usual gentle stretching planned/completed.
+
+**Assessment**
+
+First clear forward running milestone after the Cornwall break. Aerobic HR response improved substantially from 4 September: 8.5 km/h fell from 153 → 146 bpm, 9.5 from 169 → 157 despite an extra minute at pace, and 10.5 from 178 → 174. The latter two readings are effectively back around the stronger pre-holiday range. Quality work was then re-established with 2 × 3 min @ 12.5, producing controlled HRs of 185 / 187, followed by the **first deliberate sustained 13.0 km/h exposure**. The planned 2-minute introduction was extended to 3 minutes and completed at HR 189. 13.0 km/h equals approximately 4:37/km, close to the athlete's historical 22:50 5k pace (~4:34/km). HR then recovered to 177 while still jogging at 8.5. Updated training picture: **12.5 re-established, 13.0 successfully introduced, and post-holiday aerobic response largely normalising.**
+
+**Cable lat pulldown — baseline**
+
+- Set 1 — **8 reps @ 29.5 kg**; 5+ clean reps remained, so clearly too light for working sets.
+- Set 2 — **8 reps at the next heavier setting (~36–40 kg)**; approximately 2 reps in reserve.
+- Set 3 — **8 reps at the same heavier setting**, completed cleanly.
+
+**Strength assessment**
+
+Established the heavier cable setting used for sets 2–3 as the initial lat-pulldown working baseline. Exact displayed weight should be confirmed next session if possible rather than inferred from the stack. Use the 8–12 rep progression and increase resistance only once the working load can be completed cleanly toward the top of the range.
+
+**Milestone**
+
+⭐ **First 3-minute sustained rep @ 13.0 km/h (4:37/km), completed late in a 56-minute / 8.99 km session.**

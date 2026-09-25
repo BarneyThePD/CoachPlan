@@ -208,3 +208,31 @@ Established the heavier cable setting used for sets 2–3 as the initial lat-pul
 **Milestone**
 
 ⭐ **First 3-minute sustained rep @ 13.0 km/h (4:37/km), completed late in a 56-minute / 8.99 km session.**
+
+---
+
+## 25 September 2026 — Aerobic comeback + controlled 12.5 test
+
+**Context**
+
+First run since 18 September after the Vegas GI illness/travel disruption. A strength session was completed the previous evening, deliberately with limited lower-body volume.
+
+**Run**
+
+- 5 min walk @ **6.5 km/h**
+- 10 min @ **8.5 km/h** — HR **158**
+- 10 min @ **9.5 km/h** — HR **166**
+- 11 min @ **10.5 km/h** — HR **178**
+- 3 min @ **11.0 km/h** — HR **186**
+- 3 min @ **12.5 km/h** — HR **194**
+- 3 min @ **8.5 km/h** — HR **180**
+- **45:00 total / 7.07 km**
+- Cooldown walk afterwards
+
+**Assessment**
+
+Clear improvement from the 18 September re-entry session: HR at 8.5 improved from 166 → 158 and at 9.5 from 182 → 166. At 10.5, HR 178 was only ~4 bpm above the strong 6 September comparator (174), showing substantial recovery of aerobic response. High-end durability is not yet fully restored: one 3-minute rep at 12.5 reached HR 194, versus 185/187 for two 12.5 reps on 6 September before the successful 13.0 rep. Quality work was therefore stopped after the single 12.5 rep and 13.0 was withheld. HR recovered from 194 → 180 during 3 minutes of jogging at 8.5.
+
+**Updated training picture**
+
+Aerobic response is substantially recovered from the post-Vegas low point, while faster-work efficiency/durability still trails the 6 September peak. Continue rebuilding through normal sessions before resuming 13.0 progression.

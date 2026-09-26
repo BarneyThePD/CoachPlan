@@ -236,3 +236,29 @@ Clear improvement from the 18 September re-entry session: HR at 8.5 improved fro
 **Updated training picture**
 
 Aerobic response is substantially recovered from the post-Vegas low point, while faster-work efficiency/durability still trails the 6 September peak. Continue rebuilding through normal sessions before resuming 13.0 progression.
+
+
+---
+
+## 26 September 2026 — Pre-run strength + overhead press progression ⭐
+
+**Context**
+
+Strength session performed the evening before a planned 27 September run. Lower-body volume was deliberately limited to preserve running quality.
+
+**Session**
+
+- Split squats — **2 × 8 each leg @ 2 × 9.5 kg**
+- Single-arm rows — **3 × 10 each side @ 9.5 kg**
+- Dumbbell overhead press — **3 × 10 @ 2 × 9.5 kg**
+- Bent-knee calf raises — **2 × 15 @ 2 × 9.5 kg**
+- Front planks — **2 × 45 sec**
+- Side planks — **2 × 30 sec each side**
+
+**Progression**
+
+Overhead press progressed cleanly from the recent **3 × 8 → 3 × 9 → 3 × 10** sequence at the same 2 × 9.5 kg load. Keep this load and continue toward 3 × 11 and 3 × 12 before increasing resistance. Bent-knee calf raises also progressed from 2 × 12 to **2 × 15 @ 2 × 9.5 kg**.
+
+**Notes**
+
+RDLs and straight-knee calf raises were deliberately omitted to minimise lower-body fatigue before the next day's run. Treat as an upper-body-biased strength progression with a modest running-supportive leg stimulus.

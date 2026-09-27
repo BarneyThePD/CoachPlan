@@ -262,3 +262,47 @@ Overhead press progressed cleanly from the recent **3 × 8 → 3 × 9 → 3 × 1
 **Notes**
 
 RDLs and straight-knee calf raises were deliberately omitted to minimise lower-body fatigue before the next day's run. Treat as an upper-body-biased strength progression with a modest running-supportive leg stimulus.
+
+
+---
+
+## 27 September 2026 — 13.0 re-established + 55-minute durability ⭐
+
+**Context**
+
+Follow-up run two days after the improving 25 September comeback session and the morning after a deliberately lower-body-light strength session. Goal was to rebuild 12.5 km/h quality and include 13.0 if the cardiovascular response justified it.
+
+**Run**
+
+- 5 min walk @ **6.5 km/h**
+- 10 min @ **8.5 km/h** — HR **151**
+- 10 min @ **9.5 km/h** — HR **167**
+- 10 min @ **10.5 km/h** — HR **178**
+- 3 min @ **11.0 km/h** — HR **184**
+- 3 min @ **12.5 km/h** — HR **186**
+- 90 sec @ **8.5 km/h** recovery
+- 3 min @ **12.5 km/h** — HR **189**
+- 90 sec @ **8.5 km/h** recovery
+- 3 min @ **13.0 km/h** — HR **192**
+- Easy running @ **8.5 km/h** afterwards — HR **178** at 53:00 and **180** at 55:00
+
+**Total**
+
+- **55:00**
+- **8.85 km**
+- Fastest rolling 5 km during the session: approximately **26:57**
+- Cooldown walk and usual calf/quad stretching afterwards
+
+**Assessment**
+
+The high-end response is now close to the strong 6 September pre-Vegas benchmark. On 6 September the equivalent quality sequence produced HR **185 → 187 → 189** for 12.5 / 12.5 / 13.0; today produced **186 → 189 → 192**. This is only 1–3 bpm higher and is a major improvement from 25 September, when the first 12.5 rep alone reached HR 194. HR also recovered from 192 to 178 while continuing to jog at 8.5.
+
+The Vegas illness/travel setback can now be treated as largely recovered at the high end. Training focus can shift from proving 13.0 is available to **building repeatable volume at 13.0**, likely beginning with 3 × 3 min @ 13.0 before extending rep duration.
+
+**Next endurance milestone**
+
+A near-term target is **10.00 km before 60:00 on the treadmill including the standard first 5 minutes walking @ 6.5 km/h**. The 5-minute walk covers approximately 0.54 km, leaving ~9.46 km to cover in 55 minutes (~10.32 km/h average running speed). Current durability suggests this is an appropriate near-term challenge.
+
+**Milestone**
+
+⭐ **13.0 km/h successfully re-established after the Vegas interruption, late in a 55-minute / 8.85 km session.**

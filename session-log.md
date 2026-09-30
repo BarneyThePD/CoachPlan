@@ -306,3 +306,47 @@ A near-term target is **10.00 km before 60:00 on the treadmill including the sta
 **Milestone**
 
 ⭐ **13.0 km/h successfully re-established after the Vegas interruption, late in a 55-minute / 8.85 km session.**
+
+
+---
+
+## 30 September 2026 — First sustained 13.5 km/h milestone ⭐
+
+**Goal**
+
+Reach the quality work fresher than recent sessions, make 13.0 repeatable, and introduce 13.5 km/h if the preceding response remained controlled.
+
+**Run**
+
+- 5 min walk @ **6.5 km/h**
+- 10 min @ **8.5 km/h** — HR **151**
+- 10 min @ **9.5 km/h** — HR **168**
+- 5 min @ **10.5 km/h** — HR **178**
+- 3 min @ **11.0 km/h** — HR **182**
+- 3 min @ **13.0 km/h** — HR **187**
+- 90 sec @ **8.5 km/h** recovery
+- 3 min @ **13.0 km/h** — HR **192**
+- 90 sec @ **8.5 km/h** recovery
+- **3 min @ 13.5 km/h** — HR **194**
+- Easy running @ **8.5 km/h** afterwards
+- **47:00 total / 7.64 km**
+- HR **180** at 47:00
+- Cooldown walk and usual stretching afterwards
+
+**Subjective feedback**
+
+The 13.5 km/h pace itself did not feel mechanically difficult or unnaturally fast. The challenge was **holding the pace as fatigue accumulated**, particularly after the preceding two 13.0 reps. This suggests current limitation is more speed-endurance/durability than basic ability to run at the pace.
+
+**Assessment**
+
+First deliberate sustained 13.5 km/h exposure. The athlete completed **9 total minutes at ≥13.0 km/h**, consisting of 3 + 3 min @ 13.0 and 3 min @ 13.5. 13.5 km/h equals approximately **4:27/km**, faster than the athlete's historical 22:50 5k PB pace (~4:34/km). HR rose 187 → 192 → 194 across the quality reps and recovered to 180 while jogging at 8.5.
+
+The next progression should emphasise **duration and repeatability at 13.0–13.5**, rather than immediately increasing to 14.0. Build the ability to sustain these speeds through longer or additional intervals before raising the pace ceiling.
+
+**Fastest rolling 5 km**
+
+Approximately **27:25**. This is not directly comparable with the 27 September ~26:57 rolling split because today's warm-up was deliberately shortened and structured to reach faster quality work fresher rather than maximise rolling 5k pace.
+
+**Milestone**
+
+⭐ **3 continuous minutes @ 13.5 km/h (4:27/km), faster than historical 5k PB pace, after 2 × 3 min @ 13.0.**

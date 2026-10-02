@@ -383,3 +383,39 @@ This complements the 30 September speed milestone (3 min @ 13.5 km/h): speed cei
 **Milestone**
 
 ⭐ **10.02 km in 60:00, including the first 5 minutes walking @ 6.5 km/h.**
+
+
+---
+
+## 2 October 2026 — 10 km inside 60 minutes including walk ⭐
+
+**Goal**
+
+Aerobic/endurance session following the 30 September 13.5 km/h quality milestone. The session became an attempt to cover 10.00 km before 60:00 while retaining the standard opening 5-minute walk.
+
+**Run**
+
+- 5 min walk @ **6.5 km/h**
+- 10 min @ **8.5 km/h** — HR **153**
+- 10 min @ **10.0 km/h** — HR **170**
+- 10 min @ **10.5 km/h** — HR **176**
+- 10 min @ **11.0 km/h** — HR **187**
+- 10 min @ **11.5 km/h** — HR **188** at 50:00 and **189** at 55:00
+- 5 min @ **11.0 km/h** — HR **193** at 60:00
+
+**Total**
+
+- **60:00**
+- **10.02 km**
+- Included the full first 5 minutes walking @ 6.5 km/h
+- Approximately 0.54 km covered during the walk, leaving ~9.48 km covered during the subsequent 55 minutes of running (~10.34 km/h average running speed)
+
+**Assessment**
+
+Major endurance milestone. The athlete achieved the deliberately harder version of the sub-60 10k challenge: the treadmill clock and distance both included the standard five-minute walking warm-up. The final 25 minutes were continuous at ≥11.0 km/h, including 10 minutes at 11.5, demonstrating a substantial sustained-speed improvement alongside the recent 13.5 km/h interval milestone.
+
+HR remained notably stable through the 11.5 block (187 at 45:00, 188 at 50:00, 189 at 55:00) before rising to 193 at the end of the final five minutes. No additional running should follow this effort; cooldown walking only.
+
+**Milestone**
+
+⭐ **10.02 km in 60:00 including the opening 5-minute walk @ 6.5 km/h.**

@@ -350,3 +350,36 @@ Approximately **27:25**. This is not directly comparable with the 27 September ~
 **Milestone**
 
 ⭐ **3 continuous minutes @ 13.5 km/h (4:27/km), faster than historical 5k PB pace, after 2 × 3 min @ 13.0.**
+
+
+---
+
+## 2 October 2026 — 10 km inside 60 minutes including walk ⭐
+
+**Goal**
+
+Aerobic/endurance-focused session two days after the first sustained 13.5 km/h milestone. The session was made progressively more challenging in real time, with the near-term target of reaching 10.00 km before 60:00 **including the standard first 5 minutes walking**.
+
+**Run**
+
+- 5 min walk @ **6.5 km/h**
+- 10 min @ **8.5 km/h** — HR **153**
+- 10 min @ **10.0 km/h** — HR **170**
+- 10 min @ **10.5 km/h** — HR **176**
+- 10 min @ **11.0 km/h** — HR **187**
+- 5 min @ **11.5 km/h** — HR **188** at 50:00; treadmill distance **8.14 km**
+- Continued @ **11.5 km/h** to 55:00 — HR **189**
+- Final 5 min @ **11.0 km/h**
+- **60:00 total / 10.02 km / HR 193**
+
+**Assessment**
+
+First successful completion of the explicit **10 km within 60 minutes including the 5-minute walk** target. The opening walk covered only ~0.54 km, meaning approximately 9.48 km was covered during the subsequent 55 minutes of running, an average running speed of roughly 10.34 km/h.
+
+The most useful durability signal was the sustained finish: the final **25 minutes were continuously at ≥11.0 km/h**, including 10 minutes at 11.5 km/h. HR remained remarkably stable through much of that harder section (187 at 45 min, 188 at 50, 189 at 55) before reaching 193 at the 60-minute finish.
+
+This complements the 30 September speed milestone (3 min @ 13.5 km/h): speed ceiling and sustained endurance both moved forward within the same training week. No additional running should be added after this session; cooldown walking and recovery are the priority.
+
+**Milestone**
+
+⭐ **10.02 km in 60:00, including the first 5 minutes walking @ 6.5 km/h.**

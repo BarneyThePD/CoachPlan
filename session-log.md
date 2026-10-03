@@ -419,3 +419,39 @@ HR remained notably stable through the 11.5 block (187 at 45:00, 188 at 50:00, 1
 **Milestone**
 
 ⭐ **10.02 km in 60:00 including the opening 5-minute walk @ 6.5 km/h.**
+
+
+---
+
+## 3 October 2026 — Family parkrun + upper-body progression
+
+**Context**
+
+Day after the 2 October 10.02 km / 60-minute endurance milestone. Parkrun was run with Jesse before a short upper-body gym session during his swimming lesson.
+
+**Parkrun**
+
+- Barney — **28:04**
+- Jesse — **27:40**
+- Barney needed a short walking break near the end.
+- Do **not** treat Barney's 28:04 as a fresh 5k fitness benchmark because it came the morning after the hard 60-minute / 10.02 km treadmill session.
+- Jesse's 27:40 is a major improvement relative to the previously tracked 28:58 result.
+
+**Upper-body gym session (~20 min)**
+
+### Lateral incline press
+
+- **3 × 10 @ 10 kg per side**
+- Progression: **8/8/8 → 10/9/9 → 10/10/10**
+- Next progression: work toward 3 × 11, then 3 × 12 before increasing resistance.
+
+### Cable lat pulldown
+
+- **3 × 10 @ 36.5 kg**
+- 36.5 kg now confirmed as the proper working baseline.
+- First set felt okay and all three sets of 10 were completed cleanly.
+- Next progression: work toward 3 × 11–12 before increasing resistance.
+
+**Assessment**
+
+Efficient upper-body progression session layered onto an easy/family running day. No lower-body strength was added because of the previous day's 60-minute endurance milestone and the morning parkrun. The incline press progressed in total reps at the established load, and the previously approximate lat-pulldown working load is now confirmed at 36.5 kg.

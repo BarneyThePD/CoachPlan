@@ -455,3 +455,41 @@ Day after the 2 October 10.02 km / 60-minute endurance milestone. Parkrun was ru
 **Assessment**
 
 Efficient upper-body progression session layered onto an easy/family running day. No lower-body strength was added because of the previous day's 60-minute endurance milestone and the morning parkrun. The incline press progressed in total reps at the established load, and the previously approximate lat-pulldown working load is now confirmed at 36.5 kg.
+
+
+---
+
+## 6 October 2026 — Longer 13.0 / 13.5 reps with improved HR ⭐
+
+**Context**
+
+Quality session following a recovery day prompted by general lower-leg and first-step foot soreness. The planned ceiling was 4 min @ 13.0 followed by up to 2 × 4 min @ 13.5, but the session was deliberately stopped after the first 13.5 rep rather than forcing extra volume.
+
+**Run**
+
+- 5 min walk @ **6.5 km/h**
+- 10 min @ **8.5 km/h** — HR **155**
+- 10 min @ **9.5 km/h** — HR **163**
+- 5 min @ **10.5 km/h** — HR **173**
+- 3 min @ **11.0 km/h** — HR **178**
+- **4 min @ 13.0 km/h** — HR **187**
+- 90 sec @ **8.5 km/h** recovery
+- **4 min @ 13.5 km/h** — HR **189**
+- Easy running @ **8.5 km/h** afterwards
+- **44:00 total / 7.12 km**
+- HR **178** at 44:00
+- Cooldown walk afterwards
+
+**Assessment**
+
+Clear quality progression from 30 September. On 30 September, 3 min @ 13.0 ended at HR 187 and 3 min @ 13.5 ended at HR 194. Today, duration increased to **4 minutes at each pace**, with HR **187 at 13.0 and only 189 at 13.5**. The aerobic build was also stronger, including HR 163 @ 9.5, 173 @ 10.5 and 178 after 3 min @ 11.0.
+
+The originally planned third quality rep was intentionally omitted. Given the recent lower-leg/foot soreness, the athlete had already achieved a meaningful duration/efficiency progression and there was little value in converting a controlled milestone session into a maximal one.
+
+**Updated interpretation**
+
+13.0 km/h is increasingly established as a repeatable quality pace. 13.5 km/h has progressed from a 3-minute exposure to a **4-minute sustained rep at a lower ending HR**, strengthening the view that current limitation is speed endurance rather than mechanics at the pace. Continue building duration and repeatability around 13.0–13.5 before prioritising 14.0.
+
+**Milestone**
+
+⭐ **4 min @ 13.0 (HR 187) + 4 min @ 13.5 (HR 189), with 13.5 duration increased by one minute while ending HR fell versus the previous exposure.**

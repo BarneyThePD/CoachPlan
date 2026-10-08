@@ -230,3 +230,15 @@ Strength remains subordinate to running. Two short, high-quality sessions per we
 **Decision:** Add split-squat/Bulgarian split-squat work and bent-knee calf work, retain RDLs/rows, keep explicit plank baselines, and plan later progression toward harder core variations and low-volume plyometrics.
 
 **Reason:** The next running phase includes faster sustained work and 15.0 km/h exposure. Improving unilateral leg strength, calf/soleus capacity and trunk stability should better support running economy and resilience without materially increasing weekly training time.
+
+---
+
+## 8 October 2026 — Coaching review and recovery reset
+
+**Evidence:** 30 September: 2×3 min @ 13.0 and 3 min @ 13.5 (HR 194). 2 October: 10.02 km / 60 min including 5-minute walk. 3 October: 28:04 parkrun with a brief walk after the hard prior day, plus incline press 3×10 @ 10 kg/side and pulldown 3×10 @ 36.5 kg. 6 October: 4 min @ 13.0 (HR 187), 4 min @ 13.5 (HR 189), 44 min / 7.12 km. 8 October: stopped at 45 min / 7.26 km (HR 187), reporting global fatigue, heavy legs, lower-leg/foot soreness and work/sleep stress.
+
+**Decision:** Reduce impact training for several days, then return via genuinely easy running before another hard quality session. Limit initial resumed programme to one hard running day per week. Do not automatically extend the 12 km/h finish or 60-minute distance record. Keep the 60-minute treadmill cap. Monitor first-step foot pain and fatigue; seek assessment if persistent, worsening or focal.
+
+**Reason:** Several near-maximal efforts were stacked with parkrun and strength; cardiovascular progress has outpaced apparent musculoskeletal recovery. Recovery and consistency are now the higher-value levers. This is not a diagnosis of overtraining syndrome.
+
+**Data integrity:** The earlier August fitness estimates and projections remain historical snapshots, not current guidance. 5k estimates are unverified until a rested race/test. Exact 10k lifetime PB is still unconfirmed (~53 min).

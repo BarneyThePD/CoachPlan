@@ -1,6 +1,6 @@
 # Fitness Dashboard
 
-Last updated: **2 October 2026**
+Last updated: **8 October 2026**
 
 This file tracks high-signal fitness benchmarks alongside the detailed `session-log.md`. It should be updated when a session materially changes a benchmark rather than after every workout.
 
@@ -9,9 +9,9 @@ This file tracks high-signal fitness benchmarks alongside the detailed `session-
 - **Estimated fresh 5k:** ~25:15–25:45 (working estimate; not a measured race result)
 - **Fastest recent embedded rolling 5k:** ~26:57 (27 September)
 - **60-minute treadmill distance:** **10.02 km** (2 October), including the first 5 min walking @ 6.5 km/h
-- **Highest sustained quality pace:** **13.5 km/h for 3 min** (30 September)
-- **13.0 km/h status:** repeatable quality pace; 2 × 3 min completed before 3 min @ 13.5
-- **10k sub-60 including walk:** achieved ⭐
+- **Highest sustained quality pace:** **13.5 km/h for 4 min** (6 October)
+- **13.0 km/h status:** 4 min continuous on 6 October; followed by 4 min @ 13.5
+- **10k sub-60 including walk:** achieved ⭐\n- **Current recovery status (8 Oct):** 45 min / 7.26 km session stopped early due to fatigue, lower-leg/foot soreness and work/sleep stress; deload indicated.
 - **Historical 5k PB:** **22:50**
 - **Historical 10k PB:** approximately **53:00** — exact time still to confirm
 
@@ -58,7 +58,7 @@ Reference paces:
 | 6 Sep | First sustained 3 min @ 13.0 km/h late in 56-min session |
 | 27 Sep | 13.0 re-established after Vegas interruption |
 | 30 Sep | 2 × 3 min @ 13.0 + **3 min @ 13.5 km/h** |
-| 2 Oct | **10.02 km in 60 min including 5-min walk** |
+| 2 Oct | **10.02 km in 60 min including 5-min walk** |\n| 3 Oct | 28:04 parkrun after previous day's hard 10k; 3×10 incline press and pulldown |\n| 6 Oct | **4 min @ 13.0 + 4 min @ 13.5**; HR 187 / 189 |\n| 8 Oct | **45 min / 7.26 km**, ended early feeling depleted; recovery signal |
 
 ## Embedded 5k trend
 
@@ -93,13 +93,13 @@ Selected longer treadmill sessions:
 - **Dumbbell overhead press:** **3 × 10 @ 2 × 9.5 kg**
   - Progression: 3×8 → 3×9 → 3×10
   - Next: 3×11, then 3×12 before increasing load
-- **Lateral incline press:** **10 / 9 / 9 @ 10 kg per side**
+- **Lateral incline press:** **3 × 10 @ 10 kg per side**
   - Initial baseline: 3×8
   - Progress toward 3×12 before increasing load
 - **Single-arm row:** **3 × 10 each side @ 9.5 kg**
   - Start left; right matches left
-- **Cable lat pulldown:** working baseline established around the heavier setting used after 29.5 kg proved too easy
-  - Exact displayed working weight to confirm next time
+- **Cable lat pulldown:** **3 × 10 @ 36.5 kg** confirmed on 3 October
+  - Progress reps toward 3×11–12 before increasing load
 
 ### Lower body / running support
 
@@ -121,7 +121,7 @@ The major change through August–October is that both ends of the performance c
 1. **Speed ceiling:** sustained quality work progressed from 12.0 → 12.5 → 13.0 → 13.5 km/h.
 2. **Durability:** longer sessions progressed to 10.02 km in 60 minutes despite the opening five minutes being walked.
 3. **Current limiter:** sustaining the faster speeds for longer, rather than basic mechanics/leg turnover at those speeds.
-4. **Near-term running priorities:** make 13.0–13.5 repeatable for more total minutes; build sustained work around 11–12 km/h; attempt a fresh 5k benchmark when training suggests sub-25 is genuinely available.
+4. **Immediate priority as of 8 October:** recover from accumulated fatigue and first-step foot/lower-leg soreness; restart genuinely easy aerobic running before another quality progression. A fresh rested 5k benchmark remains needed.
 5. **Strength priority:** continue double-progression (reps first, then load) so the programme supports both running durability and visible physique development.
 
 ## Rules for updating this dashboard

@@ -493,3 +493,29 @@ The originally planned third quality rep was intentionally omitted. Given the re
 **Milestone**
 
 ⭐ **4 min @ 13.0 (HR 187) + 4 min @ 13.5 (HR 189), with 13.5 duration increased by one minute while ending HR fell versus the previous exposure.**
+
+
+---
+
+## 8 October 2026 — Endurance progression cut short / recovery signal
+
+**Session**
+
+- 5 min walk @ **6.5 km/h**
+- 10 min @ **9.0 km/h** — HR **155** at 15:00
+- 10 min @ **10.0 km/h** — HR **176** at 25:00
+- 10 min @ **10.5 km/h** — HR **180** at 35:00
+- 10 min @ **11.0 km/h** — HR **187** at 45:00
+- **45:00 / 7.26 km** treadmill reading; stopped voluntarily rather than continue to the planned 60-minute / ~10.25 km stretch goal
+
+**Subjective feedback**
+
+Reported not feeling it at 45 minutes: cardiovascular fatigue, heavy legs and general low energy all contributed. General soreness during the day, considerable work stress and likely poor sleep. Lower-leg/first-step foot soreness had also been reported earlier in the week.
+
+**Assessment**
+
+Not a new endurance benchmark. HR at 25/35/45 minutes was 176/180/187 versus 170/176/187 on 2 October, though the opening running pace differed (9.0 versus 8.5), so this is not a strict like-for-like comparison. The combination of recent hard sessions, ongoing soreness, subjective exhaustion and poor recovery suggests accumulated fatigue/under-recovery may be contributing; avoid diagnosing overtraining from one session.
+
+**Plan**
+
+Prioritise several days of recovery; no further hard running or leg strength immediately. If foot soreness persists or becomes focal, or fatigue remains unusual despite rest, seek appropriate clinical assessment. On resumption, reduce frequency of near-maximal sessions and include genuinely easy aerobic work between quality days.

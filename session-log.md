@@ -527,8 +527,8 @@ Prioritise several days of recovery; no further hard running or leg strength imm
 
 **Parkrun**
 
-- Barney: **27:58**.
-- Jesse: approximately **27:30**, **unofficial**, awaiting official parkrun result (do not record as confirmed PB yet).
+- Barney: **27:57** (official result).
+- Jesse: **27:22** (official result; new recorded PB, 1 min 36 sec faster than previous 28:58).
 - Barney reported **right** lower-leg pain, along the **inside of the shin**, and soreness around the **bottom of the right heel**, especially on first steps after being stationary. Shin/ankle discomfort persisted throughout the 5k. Side corrected from an initial mention of left to **right**.
 
 **Upper-body gym session** (during Jesse's swimming lesson)

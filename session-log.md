@@ -519,3 +519,24 @@ Not a new endurance benchmark. HR at 25/35/45 minutes was 176/180/187 versus 170
 **Plan**
 
 Prioritise several days of recovery; no further hard running or leg strength immediately. If foot soreness persists or becomes focal, or fatigue remains unusual despite rest, seek appropriate clinical assessment. On resumption, reduce frequency of near-maximal sessions and include genuinely easy aerobic work between quality days.
+
+
+---
+
+## 10 October 2026 — Parkrun with Jesse + upper-body progression
+
+**Parkrun**
+
+- Barney: **27:58**.
+- Jesse: approximately **27:30**, **unofficial**, awaiting official parkrun result (do not record as confirmed PB yet).
+- Barney reported **right** lower-leg pain, along the **inside of the shin**, and soreness around the **bottom of the right heel**, especially on first steps after being stationary. Shin/ankle discomfort persisted throughout the 5k. Side corrected from an initial mention of left to **right**.
+
+**Upper-body gym session** (during Jesse's swimming lesson)
+
+- Lateral incline press: **3 × 11 @ 10 kg per side**, progressed from 3 × 10.
+- Cable lat pulldown: **10 / 12 / 12 @ 36.5 kg** (third set of 12 inferred from agreed target and completion; confirm if necessary), up from 3 × 10.
+- No lower-body strength work.
+
+**Assessment and next steps**
+
+Strength progression continued despite running-related lower-leg symptoms. Avoid running and high-impact/loaded calf work for the coming week; reassess **Friday 16 October**. Do not automatically race the next parkrun if shin or first-step heel pain persists. If pain becomes focal, worsens, impairs walking, or fails to improve with rest, seek a sports physio/GP assessment. Maintain comfortable, non-provocative upper-body training in the interim.

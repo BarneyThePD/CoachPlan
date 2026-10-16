@@ -540,3 +540,17 @@ Prioritise several days of recovery; no further hard running or leg strength imm
 **Assessment and next steps**
 
 Strength progression continued despite running-related lower-leg symptoms. Avoid running and high-impact/loaded calf work for the coming week; reassess **Friday 16 October**. Do not automatically race the next parkrun if shin or first-step heel pain persists. If pain becomes focal, worsens, impairs walking, or fails to improve with rest, seek a sports physio/GP assessment. Maintain comfortable, non-provocative upper-body training in the interim.
+
+
+---
+
+## 16 October 2026 — Strength session
+
+- Single-arm rows: 3 × 10 per side at 9.5 kg.
+- Dumbbell overhead press: 3 × 12 with two 9.5 kg dumbbells. New progression milestone after 3 × 11.
+- Bodyweight glute bridges: 3 × 12.
+- Side-lying hip abductions: 2 × 15 per side.
+- Front plank: 2 × 45 seconds.
+- Side plank: 2 × 30 seconds per side.
+
+Overhead press has progressed from 3 × 8 to 3 × 12 at the same load. Session completed.

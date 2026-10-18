@@ -554,3 +554,17 @@ Strength progression continued despite running-related lower-leg symptoms. Avoid
 - Side plank: 2 × 30 seconds per side.
 
 Overhead press has progressed from 3 × 8 to 3 × 12 at the same load. Session completed.
+
+
+---
+
+## 18 October 2026 — Strength progression
+
+- Single-arm dumbbell rows: 3 x 8 each side at 12 kg.
+- Dumbbell overhead press: 3 x 6 with two 12 kg dumbbells.
+- Glute bridges: 3 x 12 bodyweight.
+- Side-lying hip abductions: 2 x 15 each side.
+- Front plank: 2 x 45 seconds.
+- Side plank: 2 x 30 seconds each side.
+
+Both rows and overhead press progressed from 9.5 kg to 12 kg dumbbells. The new working baselines are 3 x 8 for rows and 3 x 6 for overhead press. Next targets: 3 x 9 rows and 3 x 7 overhead press at 12 kg, subject to clean technique. Lower-body exercises remained low-impact while the right heel recovers. Bulgaria travel follows, with running on hold until reassessment.

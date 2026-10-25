@@ -568,3 +568,30 @@ Overhead press has progressed from 3 × 8 to 3 × 12 at the same load. Session c
 - Side plank: 2 x 30 seconds each side.
 
 Both rows and overhead press progressed from 9.5 kg to 12 kg dumbbells. The new working baselines are 3 x 8 for rows and 3 x 6 for overhead press. Next targets: 3 x 9 rows and 3 x 7 overhead press at 12 kg, subject to clean technique. Lower-body exercises remained low-impact while the right heel recovers. Bulgaria travel follows, with running on hold until reassessment.
+
+
+---
+
+## 25 October 2026 — Return treadmill and pulldowns
+
+**Treadmill**
+
+- 0–5 min: walk at 6.5 km/h.
+- 5–15 min: 9.0 km/h; HR 164 at 15 min.
+- 15–25 min: 10.0 km/h; HR 176 at 25 min.
+- 25–35 min: 10.5 km/h; HR 187 at 35 min.
+- 35–40 min: 11.0 km/h; HR 192 at 40 min.
+- Total: **40:00 / 6.25 km** (treadmill reading).
+- Cooldown walk after stopping at 40 minutes.
+- Fastest rolling 5k: approximately **28:25** based on planned speed blocks; estimate only, not a recorded lap split.
+
+**Strength after cooldown**
+
+- Cable lat pulldowns: **2 x 10 at 36.5 kg**.
+
+**Subjective feedback and recovery**
+
+- Cardiovascular effort felt tough toward the end of the run; stopped at 40 minutes rather than completing the planned 50.
+- Right heel and previously sore rib felt fine during running and strength.
+- First treadmill run since 8 October, with two parkruns on 10 and 17 October in between and Bulgaria travel since.
+- Monitor heel response the next morning; no further strength or running today. Next run depends on recovery.

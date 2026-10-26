@@ -595,3 +595,17 @@ Both rows and overhead press progressed from 9.5 kg to 12 kg dumbbells. The new 
 - Right heel and previously sore rib felt fine during running and strength.
 - First treadmill run since 8 October, with two parkruns on 10 and 17 October in between and Bulgaria travel since.
 - Monitor heel response the next morning; no further strength or running today. Next run depends on recovery.
+
+
+---
+
+## 26 October 2026 — Strength progression
+
+- Single-arm dumbbell rows: **3 x 9 each side at 12 kg**, up from 3 x 8.
+- Dumbbell overhead press: **3 x 7 with two 12 kg dumbbells**, up from 3 x 6.
+- Bodyweight glute bridges: **3 x 12**.
+- Side-lying hip abductions: **2 x 15 each side**.
+- Front plank: **2 x 45 seconds**.
+- Side plank: **2 x 30 seconds each side**.
+
+**Notes:** Mild left-side rib soreness during the first row set; second set felt fine. All three sets of rows and overhead press were completed. Next strength targets: 3 x 10 rows per side and 3 x 8 overhead press at 12 kg, subject to comfortable technique.

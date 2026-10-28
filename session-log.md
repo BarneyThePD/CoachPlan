@@ -609,3 +609,26 @@ Both rows and overhead press progressed from 9.5 kg to 12 kg dumbbells. The new 
 - Side plank: **2 x 30 seconds each side**.
 
 **Notes:** Mild left-side rib soreness during the first row set; second set felt fine. All three sets of rows and overhead press were completed. Next strength targets: 3 x 10 rows per side and 3 x 8 overhead press at 12 kg, subject to comfortable technique.
+
+
+---
+
+## 28 October 2026 — Progressive treadmill run
+
+**Treadmill session**
+
+- 0–5 min: walk at 6.5 km/h.
+- 5–15 min: 8.5 km/h; HR 157 at 15:00.
+- 15–25 min: 9.5 km/h; HR 173 at 25:00.
+- 25–35 min: 10.0 km/h; HR 180 at 35:00.
+- 35–40 min: 10.5 km/h; HR 187 at 40:00.
+- 40–45 min: 11.0 km/h; HR 192 at 45:00.
+- 45–50 min: 11.5 km/h; HR 197 at 50:00.
+- **Total: 50:00 / 7.93 km** (treadmill display).
+- **Fastest rolling 5k:** approximately 27:45 based on reconstructed pace blocks (estimate, not recorded split).
+
+**Notes**
+
+- Athlete reported feeling fine despite the high finishing heart rate.
+- No further exercise was recorded for this session.
+- The session became substantially harder than the originally planned aerobic progression; avoid treating the elevated HR as a new target. Allow recovery and check symptoms before the next run.

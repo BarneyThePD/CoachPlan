@@ -632,3 +632,20 @@ Both rows and overhead press progressed from 9.5 kg to 12 kg dumbbells. The new 
 - Athlete reported feeling fine despite the high finishing heart rate.
 - No further exercise was recorded for this session.
 - The session became substantially harder than the originally planned aerobic progression; avoid treating the elevated HR as a new target. Allow recovery and check symptoms before the next run.
+
+
+---
+
+## 9 November 2026 — Gym return
+
+**Location:** London gym
+
+**Session:** Modified strength workout while managing persistent right heel pain and recurrent front/side rib discomfort.
+
+- Stationary bike: 1.9 km, easy warm-up; felt fine.
+- Seated hamstring curl: 12 × 20 kg, 12 × 20 kg, 12 × 25 kg (last set difficult toward the end).
+- Hip abduction: 15 × 27.5 kg (very easy), 15 × 35 kg (pretty easy), 15 × 42.5 kg.
+- Hip adduction: 12 × 27.5 kg (fine), 15 × 35 kg (accidentally 15, felt fine), 12 × 42.5 kg.
+- Total: 9 working sets plus bike.
+
+**Symptoms and modifications:** Both rib and heel felt fine during workout. Avoided running, pulldowns, loaded upper-body/core work and calf raises due to ongoing symptoms. No biceps curls completed (suitable equipment/weights unavailable). Monitor next-day heel first-step pain and rib symptoms; no assumption that pain-free workout confirms recovery.

@@ -649,3 +649,35 @@ Both rows and overhead press progressed from 9.5 kg to 12 kg dumbbells. The new 
 - Total: 9 working sets plus bike.
 
 **Symptoms and modifications:** Both rib and heel felt fine during workout. Avoided running, pulldowns, loaded upper-body/core work and calf raises due to ongoing symptoms. No biceps curls completed (suitable equipment/weights unavailable). Monitor next-day heel first-step pain and rib symptoms; no assumption that pain-free workout confirms recovery.
+
+
+---
+
+## 15 November 2026 — Wattbike and lower-body strength
+
+**Context:** First low-impact gym session after GP assessed rib and foot issues as muscular and provided stretches. Avoided running and loaded upper-body work. Wattbike and seated lower-body exercises; no rib or heel discomfort reported throughout.
+
+**Wattbike — ride 1**
+- 15:02, **5.45 km** (user confirmed display), average 82 W, peak 280 W, displayed 125 kcal.
+- Air resistance 3, magnetic resistance 2; started ~70 RPM / 75 W, easy, increased moderately.
+
+**Seated leg curl**
+- 12 × 20 kg
+- 12 × 25 kg (harder)
+- Final set × 25 kg, target 10–12 reps; user confirmed completion but exact reps not explicitly stated.
+
+**Hip abduction**
+- 15 × 35 kg
+- 15 × 35 kg
+- 15 × 42.5 kg
+
+**Hip adduction**
+- 12 × 35 kg
+- 12 × 42.5 kg
+- 12 × 42.5 kg
+- Machine starting width 5 felt perhaps excessively wide; try a narrower comfortable setting (3–4) next time, avoiding forced stretch.
+
+**Wattbike — ride 2**
+- 10:01, 3.70 km, average 86 W, peak 291 W, displayed 86 kcal.
+
+**Totals:** 25:03 cycling, **9.15 km**, weighted average ~84 W, bike-displayed 211 kcal; **9 strength working sets**. Leg extensions unavailable, omitted. No heel or rib pain during session; monitor delayed response and follow GP stretching guidance.

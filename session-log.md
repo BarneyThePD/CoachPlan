@@ -681,3 +681,24 @@ Both rows and overhead press progressed from 9.5 kg to 12 kg dumbbells. The new 
 - 10:01, 3.70 km, average 86 W, peak 291 W, displayed 86 kcal.
 
 **Totals:** 25:03 cycling, **9.15 km**, weighted average ~84 W, bike-displayed 211 kcal; **9 strength working sets**. Leg extensions unavailable, omitted. No heel or rib pain during session; monitor delayed response and follow GP stretching guidance.
+
+
+---
+
+## 22 November 2026 — Wattbike and lower-body strength
+
+**Context:** Low-impact gym workout while managing right heel and recurrent front/side rib pain. User reported both injuries felt fine throughout and at finish. Rib had been worsening outside the gym; reassessment advised despite pain-free exercise.
+
+**Wattbike — ride 1:** 15:06, 5.56 km, average 85 W, peak 247 W, 128 kcal (machine estimate).
+
+**Seated leg extensions:** 12 × 20 kg; 12 × 25 kg (about right); 12 × 25 kg.
+
+**Hip abduction (outwards):** 15 × 42.5 kg (easy); 15 × 50 kg (about right); 15 × 50 kg.
+
+**Hip adduction (inwards):** 12 × 42.5 kg; 12 × 42.5 kg; 12 × 50 kg (challenging but good). Machine starting width set to 4, more comfortable than previous 5.
+
+**Seated leg curls:** 12 × 25 kg (quite easy); 12 × 30 kg (about right); 12 × 30 kg. User noted feeling exercise in calves more than expected; revisit machine setup/technique next session.
+
+**Wattbike — ride 2:** 10:00, 3.63 km, average 82 W, peak 201 W, 83 kcal (machine estimate).
+
+**Totals:** Wattbike 25:06 / **9.19 km**, weighted average power ~84 W, 211 kcal displayed; **12 working strength sets**. No rib or heel pain during workout or at finish. Check delayed symptom response over next 24–48 hours; continue prescribed stretches and arrange medical reassessment for worsening recurrent rib pain.
